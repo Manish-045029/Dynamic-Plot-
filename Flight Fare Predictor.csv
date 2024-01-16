@@ -1,0 +1,1010 @@
+Date,Airline,Departure City,Departure Time,Stops,Arrival City,Class,Arrival Time,Duration,Price
+01-01-2024,SpiceJet,Delhi,Evening,zero,Chennai,Economy,Night,2.17,5953
+01-01-2024,SpiceJet,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.33,5953
+01-01-2024,AirAsia,Delhi,Early_Morning,zero,Chennai,Economy,Early_Morning,2.17,5956
+01-01-2024,Vistara,Delhi,Morning,zero,Bangalore,Economy,Afternoon,2.25,5955
+01-01-2024,Vistara,Delhi,Morning,zero,Mumbai,Economy,Morning,2.33,5955
+01-01-2024,Vistara,Delhi,Morning,zero,Cochin,Economy,Afternoon,2.33,5955
+01-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Economy,Morning,19.08,19605
+01-01-2024,Air_India,Delhi,Afternoon,one,Cochin,Economy,Night,7.58,19920
+01-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Night,7.58,21233
+01-01-2024,Vistara,Delhi,Morning,one,Jaipur,Economy,Afternoon,27.58,21285
+01-01-2024,GO_FIRST,Delhi,Morning,one,Agartala,Economy,Evening,6.33,21899
+01-01-2024,Air_India,Delhi,Morning,one,Bhubaneshwar,Economy,Morning,22.83,22755
+01-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Business,Night,6,23228
+01-01-2024,Air_India,Delhi,Morning,one,Hyderabad,Business,Afternoon,4.83,22965
+01-01-2024,Air_India,Delhi,Morning,one,Nagpur,Business,Night,11.33,23070
+01-01-2024,GO_FIRST,Delhi,Morning,one,Nashik,Business,Afternoon,5.92,23491
+01-01-2024,Air_India,Delhi,Evening,one,Rourkela,Premium Economy,Afternoon,20.58,24225
+01-01-2024,Air_India,Delhi,Afternoon,one,Srinagar,Premium Economy,Afternoon,26.17,24225
+01-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Night,6.25,24435
+01-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Premium Economy,Afternoon,25.83,25223
+01-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Night,27.17,26325
+01-01-2024,Air_India,Delhi,Night,one,Bangalore,Premium Economy,Night,23.83,27165
+01-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Evening,6.42,29580
+01-01-2024,Air_India,Delhi,Afternoon,one,Cochin,Premium Economy,Night,8.92,31260
+01-01-2024,SpiceJet,Delhi,Evening,zero,Amritsar,Premium Economy,Night,2.17,5953
+01-01-2024,SpiceJet,Delhi,Early_Morning,zero,Jaipur,Premium Economy,Morning,2.25,5953
+01-01-2024,SpiceJet,Delhi,Early_Morning,zero,Agartala,Economy,Morning,2.33,5953
+01-01-2024,SpiceJet,Delhi,Early_Morning,zero,Bhubaneshwar,Economy,Morning,2.33,5953
+01-01-2024,SpiceJet,Delhi,Evening,zero,Mumbai,Economy,Night,2.33,5953
+01-01-2024,SpiceJet,Delhi,Evening,zero,Hyderabad,Economy,Night,2.33,5953
+01-01-2024,Vistara,Delhi,Afternoon,zero,Nagpur,Economy,Evening,2.17,5955
+01-01-2024,Vistara,Delhi,Afternoon,zero,Nashik,Economy,Evening,2.17,5955
+01-01-2024,Vistara,Delhi,Evening,zero,Rourkela,Economy,Night,2.17,5955
+01-01-2024,Vistara,Delhi,Morning,zero,Srinagar,Economy,Afternoon,2.25,5955
+01-01-2024,Vistara,Delhi,Evening,zero,Chennai,Economy,Night,2.25,5955
+01-01-2024,Vistara,Delhi,Morning,zero,Mumbai,Economy,Afternoon,2.33,5955
+01-01-2024,Vistara,Delhi,Evening,zero,Chennai,Business,Night,2.33,5955
+01-01-2024,Vistara,Delhi,Morning,zero,Bangalore,Business,Morning,2.08,6060
+01-01-2024,Vistara,Delhi,Night,zero,Mumbai,Business,Night,2.17,6060
+01-01-2024,GO_FIRST,Delhi,Afternoon,zero,Cochin,Economy,Evening,2.25,5954
+01-01-2024,GO_FIRST,Delhi,Afternoon,zero,Amritsar,Economy,Evening,2.25,5954
+01-01-2024,GO_FIRST,Delhi,Evening,zero,Jaipur,Economy,Night,2.25,5954
+01-01-2024,GO_FIRST,Delhi,Night,zero,Agartala,Economy,Night,2.25,5954
+01-01-2024,GO_FIRST,Delhi,Morning,zero,Bhubaneshwar,Economy,Afternoon,2.33,5954
+01-01-2024,GO_FIRST,Delhi,Evening,zero,Mumbai,Economy,Night,2.33,5954
+01-01-2024,Indigo,Delhi,Early_Morning,zero,Hyderabad,Economy,Morning,2.17,5955
+01-01-2024,Indigo,Delhi,Morning,zero,Nagpur,Economy,Afternoon,2.17,5955
+01-01-2024,Indigo,Delhi,Evening,zero,Nashik,Economy,Evening,2.17,5955
+01-01-2024,Indigo,Delhi,Evening,zero,Rourkela,Economy,Night,2.17,5955
+01-01-2024,SpiceJet,Delhi,Early_Morning,zero,Srinagar,Economy,Morning,2.25,5955
+01-01-2024,Indigo,Delhi,Morning,zero,Chennai,Economy,Afternoon,2.25,5955
+01-01-2024,Indigo,Delhi,Afternoon,zero,Mumbai,Business,Evening,2.25,5955
+01-01-2024,Indigo,Delhi,Night,zero,Chennai,Business,Night,2.25,5955
+01-01-2024,Indigo,Delhi,Morning,zero,Bangalore,Business,Morning,2.33,5955
+01-01-2024,Indigo,Delhi,Morning,zero,Mumbai,Business,Morning,2.5,5955
+01-01-2024,Air_India,Delhi,Evening,zero,Cochin,Premium Economy,Evening,2,5955
+01-01-2024,Air_India,Delhi,Early_Morning,zero,Amritsar,Premium Economy,Morning,2.08,5955
+01-01-2024,Air_India,Delhi,Early_Morning,zero,Jaipur,Premium Economy,Morning,2.17,5955
+01-01-2024,Air_India,Delhi,Evening,zero,Agartala,Premium Economy,Night,2.17,5955
+01-01-2024,Air_India,Delhi,Morning,zero,Bhubaneshwar,Premium Economy,Morning,2.25,5955
+01-01-2024,Air_India,Delhi,Evening,zero,Mumbai,Premium Economy,Night,2.25,5955
+01-01-2024,AirAsia,Delhi,Evening,one,Hyderabad,Premium Economy,Early_Morning,15.17,5949
+01-01-2024,GO_FIRST,Delhi,Afternoon,one,Nagpur,Premium Economy,Evening,5.83,5954
+01-01-2024,GO_FIRST,Delhi,Morning,one,Nashik,Premium Economy,Evening,8.92,5954
+01-01-2024,GO_FIRST,Delhi,Afternoon,one,Rourkela,Premium Economy,Night,9.25,5954
+01-01-2024,GO_FIRST,Delhi,Early_Morning,one,Srinagar,Economy,Evening,11.75,5954
+01-01-2024,GO_FIRST,Delhi,Evening,one,Chennai,Economy,Early_Morning,12.33,5954
+01-01-2024,GO_FIRST,Delhi,Evening,one,Mumbai,Economy,Morning,15.17,5954
+01-01-2024,GO_FIRST,Delhi,Early_Morning,one,Chennai,Economy,Night,15.75,5954
+01-01-2024,Air_India,Delhi,Evening,one,Bangalore,Economy,Night,3.75,5955
+01-01-2024,SpiceJet,Delhi,Evening,one,Mumbai,Economy,Night,4.5,5955
+01-01-2024,Indigo,Delhi,Early_Morning,one,Cochin,Economy,Evening,10.25,5955
+01-01-2024,Indigo,Delhi,Afternoon,one,Amritsar,Economy,Night,10.33,5955
+01-01-2024,Indigo,Delhi,Night,one,Jaipur,Economy,Morning,10.42,5955
+01-01-2024,SpiceJet,Delhi,Evening,one,Agartala,Economy,Morning,15.25,5955
+01-01-2024,SpiceJet,Delhi,Afternoon,one,Bhubaneshwar,Business,Evening,25.75,5955
+01-01-2024,AirAsia,Delhi,Early_Morning,zero,Mumbai,Business,Early_Morning,2.17,6139
+01-01-2024,Indigo,Delhi,Early_Morning,zero,Hyderabad,Business,Morning,2.17,6165
+01-01-2024,SpiceJet,Delhi,Evening,one,Nagpur,Economy,Early_Morning,13.25,6270
+01-01-2024,Vistara,Delhi,Morning,zero,Nashik,Economy,Morning,2.33,6690
+01-01-2024,Indigo,Delhi,Evening,one,Rourkela,Economy,Night,5.33,6443
+01-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Srinagar,Economy,Morning,2.17,6532
+01-01-2024,Indigo,Delhi,Night,one,Chennai,Economy,Morning,10.17,6932
+01-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Economy,Evening,3.83,7420
+01-01-2024,SpiceJet,Delhi,Evening,one,Mumbai,Economy,Morning,15.25,5955
+01-01-2024,SpiceJet,Delhi,Morning,one,Cochin,Economy,Afternoon,24.67,5955
+01-01-2024,SpiceJet,Delhi,Afternoon,one,Amritsar,Economy,Evening,25.75,5955
+01-01-2024,AirAsia,Delhi,Early_Morning,zero,Jaipur,Economy,Early_Morning,2.17,6139
+01-01-2024,SpiceJet,Delhi,Evening,one,Agartala,Economy,Early_Morning,13.25,6270
+01-01-2024,Indigo,Delhi,Early_Morning,one,Bhubaneshwar,Economy,Morning,4.83,6443
+01-01-2024,Indigo,Delhi,Afternoon,one,Agartala,Business,Evening,6,9373
+01-01-2024,Vistara,Delhi,Early_Morning,one,Bhubaneshwar,Business,Afternoon,7,9840
+01-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Business,Night,8.25,9840
+01-01-2024,Vistara,Delhi,Early_Morning,one,Hyderabad,Business,Night,15.5,9840
+01-01-2024,Vistara,Delhi,Night,one,Nagpur,Premium Economy,Afternoon,17.92,9840
+01-01-2024,Vistara,Delhi,Afternoon,one,Nashik,Premium Economy,Afternoon,23.75,9840
+01-01-2024,Vistara,Delhi,Night,one,Rourkela,Premium Economy,Night,26.42,9840
+01-01-2024,Vistara,Delhi,Night,one,Srinagar,Premium Economy,Morning,13.42,9893
+01-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Premium Economy,Morning,19.25,9893
+02-01-2024,Vistara,Delhi,Morning,zero,Amritsar,Premium Economy,Morning,2.08,6060
+02-01-2024,Vistara,Delhi,Afternoon,zero,Jaipur,Premium Economy,Evening,2.17,6060
+02-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Agartala,Premium Economy,Morning,2.17,5954
+02-01-2024,GO_FIRST,Delhi,Afternoon,zero,Bhubaneshwar,Premium Economy,Evening,2.25,5954
+02-01-2024,GO_FIRST,Delhi,Afternoon,zero,Mumbai,Premium Economy,Evening,2.25,5954
+02-01-2024,GO_FIRST,Delhi,Morning,zero,Hyderabad,Economy,Afternoon,2.33,5954
+02-01-2024,Indigo,Delhi,Early_Morning,zero,Nagpur,Economy,Morning,2.17,5955
+02-01-2024,Indigo,Delhi,Morning,zero,Nashik,Economy,Afternoon,2.17,5955
+02-01-2024,Indigo,Delhi,Morning,one,Chennai,Economy,Evening,7.67,7420
+02-01-2024,Indigo,Delhi,Afternoon,one,Bangalore,Economy,Night,8.33,7420
+02-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Night,17.5,8413
+02-01-2024,Vistara,Delhi,Evening,one,Cochin,Economy,Morning,18.33,9000
+02-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Morning,21.83,9000
+02-01-2024,Air_India,Delhi,Evening,one,Jaipur,Economy,Afternoon,20.83,8790
+02-01-2024,Air_India,Delhi,Afternoon,one,Agartala,Economy,Afternoon,26.83,8790
+02-01-2024,GO_FIRST,Delhi,Early_Morning,one,Bhubaneshwar,Business,Night,14.25,8869
+02-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Business,Night,8,8885
+02-01-2024,Air_India,Delhi,Early_Morning,one,Hyderabad,Business,Night,15.17,9000
+02-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Economy,Night,17.83,9000
+02-01-2024,GO_FIRST,Delhi,Evening,one,Nashik,Economy,Night,4.75,9447
+02-01-2024,Vistara,Delhi,Afternoon,one,Rourkela,Economy,Night,8.25,9840
+02-01-2024,Vistara,Delhi,Morning,one,Srinagar,Economy,Night,12.58,9840
+02-01-2024,Vistara,Delhi,Night,one,Chennai,Economy,Morning,13.42,9840
+02-01-2024,Vistara,Delhi,Night,one,Mumbai,Economy,Afternoon,17.92,9840
+02-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Morning,19.25,9840
+02-01-2024,Vistara,Delhi,Morning,one,Bangalore,Economy,Morning,23.58,9840
+02-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Afternoon,23.75,9840
+02-01-2024,Vistara,Delhi,Night,one,Cochin,Economy,Night,26.42,9840
+02-01-2024,Air_India,Delhi,Early_Morning,one,Amritsar,Economy,Afternoon,9.75,9525
+02-01-2024,Indigo,Delhi,Afternoon,one,Jaipur,Economy,Evening,6,9788
+02-01-2024,Air_India,Delhi,Evening,one,Agartala,Business,Evening,23.92,9905
+02-01-2024,Air_India,Delhi,Afternoon,one,Bhubaneshwar,Business,Afternoon,24.58,9988
+02-01-2024,Vistara,Delhi,Evening,one,Mumbai,Business,Night,4.42,10575
+02-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Business,Night,5.33,10575
+02-01-2024,Vistara,Delhi,Afternoon,one,Nagpur,Premium Economy,Night,7.92,10575
+02-01-2024,Vistara,Delhi,Evening,one,Nashik,Premium Economy,Morning,16.33,10575
+02-01-2024,Vistara,Delhi,Evening,one,Rourkela,Premium Economy,Afternoon,20.83,10575
+02-01-2024,Air_India,Delhi,Evening,one,Srinagar,Premium Economy,Night,24.75,10260
+02-01-2024,Indigo,Delhi,Evening,one,Chennai,Premium Economy,Night,4.42,10349
+02-01-2024,Indigo,Delhi,Morning,one,Mumbai,Premium Economy,Afternoon,4.17,10523
+02-01-2024,GO_FIRST,Delhi,Morning,one,Chennai,Premium Economy,Evening,7.08,10549
+02-01-2024,GO_FIRST,Delhi,Early_Morning,one,Bangalore,Premium Economy,Afternoon,8,10575
+02-01-2024,Air_India,Delhi,Evening,one,Mumbai,Premium Economy,Evening,22.75,10680
+02-01-2024,Vistara,Delhi,Evening,one,Cochin,Premium Economy,Afternoon,20.08,11205
+02-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Afternoon,26.67,11573
+02-01-2024,Vistara,Delhi,Morning,one,Jaipur,Economy,Afternoon,27.58,11625
+02-01-2024,GO_FIRST,Delhi,Early_Morning,two_or_more,Agartala,Economy,Evening,12.08,11295
+02-01-2024,GO_FIRST,Delhi,Morning,one,Bhubaneshwar,Economy,Evening,6.33,11609
+02-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Evening,5,12150
+02-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Economy,Night,5.75,12150
+02-01-2024,Vistara,Delhi,Afternoon,one,Nagpur,Economy,Night,6,12150
+02-01-2024,Vistara,Delhi,Afternoon,one,Nashik,Economy,Night,7.58,12150
+02-01-2024,Vistara,Delhi,Morning,one,Rourkela,Economy,Night,11.17,12150
+02-01-2024,Vistara,Delhi,Morning,one,Srinagar,Economy,Night,12.17,12150
+02-01-2024,Vistara,Delhi,Evening,one,Chennai,Business,Morning,12.42,12150
+02-01-2024,Vistara,Delhi,Morning,one,Mumbai,Business,Night,12.75,12150
+02-01-2024,Vistara,Delhi,Morning,one,Chennai,Business,Night,13.75,12150
+02-01-2024,Vistara,Delhi,Evening,one,Bangalore,Economy,Morning,14.42,12150
+02-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,14.67,12150
+02-01-2024,Vistara,Delhi,Evening,one,Cochin,Economy,Morning,15.58,12150
+02-01-2024,Vistara,Delhi,Evening,one,Amritsar,Economy,Morning,16.17,12150
+02-01-2024,Air_India,Delhi,Early_Morning,one,Jaipur,Economy,Afternoon,8.83,11900
+02-01-2024,Air_India,Delhi,Afternoon,one,Agartala,Economy,Night,7.58,12150
+02-01-2024,Air_India,Delhi,Morning,one,Bhubaneshwar,Economy,Night,11.33,12150
+02-01-2024,Air_India,Delhi,Night,one,Mumbai,Economy,Morning,11.33,12150
+02-01-2024,Air_India,Delhi,Early_Morning,one,Hyderabad,Economy,Night,14.92,12150
+02-01-2024,Air_India,Delhi,Evening,one,Nagpur,Economy,Morning,15.25,12150
+02-01-2024,Air_India,Delhi,Afternoon,one,Nashik,Economy,Morning,19.08,12150
+02-01-2024,Air_India,Delhi,Morning,one,Rourkela,Economy,Morning,22.83,12150
+02-01-2024,Air_India,Delhi,Early_Morning,one,Srinagar,Business,Morning,26.42,12150
+02-01-2024,SpiceJet,Delhi,Afternoon,one,Chennai,Business,Afternoon,21.08,12228
+02-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Business,Afternoon,7.25,12298
+02-01-2024,Indigo,Delhi,Early_Morning,one,Chennai,Business,Afternoon,5.08,12302
+02-01-2024,Air_India,Delhi,Afternoon,one,Bangalore,Premium Economy,Evening,25.92,12360
+02-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Premium Economy,Morning,4.83,12518
+02-01-2024,Vistara,Delhi,Afternoon,one,Cochin,Premium Economy,Night,7.58,12990
+02-01-2024,Vistara,Delhi,Evening,one,Amritsar,Premium Economy,Morning,15.75,12990
+02-01-2024,Vistara,Delhi,Evening,one,Jaipur,Premium Economy,Morning,18.25,12990
+02-01-2024,Vistara,Delhi,Evening,one,Agartala,Premium Economy,Afternoon,18.58,12990
+02-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Premium Economy,Afternoon,21.08,12990
+02-01-2024,Air_India,Delhi,Night,one,Mumbai,Premium Economy,Morning,11.42,12990
+02-01-2024,Air_India,Delhi,Evening,one,Hyderabad,Premium Economy,Morning,15.83,12990
+02-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Premium Economy,Night,10.33,6443
+02-01-2024,GO_FIRST,Delhi,Night,zero,Hyderabad,Economy,Night,2.25,6532
+02-01-2024,Indigo,Delhi,Morning,two_or_more,Nagpur,Economy,Evening,9.67,6953
+02-01-2024,Indigo,Delhi,Morning,one,Nashik,Economy,Afternoon,4.17,7163
+02-01-2024,Indigo,Delhi,Evening,one,Rourkela,Economy,Night,4.42,7420
+02-01-2024,Indigo,Delhi,Afternoon,one,Srinagar,Economy,Night,8.33,7420
+02-01-2024,Air_India,Delhi,Morning,one,Chennai,Economy,Night,14.75,7468
+02-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Night,17.5,7468
+03-01-2024,Indigo,Delhi,Afternoon,zero,Rourkela,Economy,Evening,2.25,5955
+03-01-2024,Indigo,Delhi,Morning,zero,Srinagar,Economy,Morning,2.33,5955
+03-01-2024,Air_India,Delhi,Early_Morning,zero,Chennai,Economy,Morning,2.08,5955
+03-01-2024,Air_India,Delhi,Early_Morning,zero,Mumbai,Business,Morning,2.17,5955
+03-01-2024,AirAsia,Delhi,Evening,one,Chennai,Business,Early_Morning,12.25,5949
+03-01-2024,AirAsia,Delhi,Evening,one,Bangalore,Business,Morning,16.33,5949
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Mumbai,Economy,Evening,11.75,5954
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Cochin,Economy,Night,14.5,5954
+03-01-2024,GO_FIRST,Delhi,Evening,one,Amritsar,Economy,Morning,15.67,5954
+03-01-2024,Air_India,Delhi,Night,one,Nagpur,Economy,Afternoon,16.17,12990
+03-01-2024,Air_India,Delhi,Evening,one,Nashik,Economy,Afternoon,19.5,12990
+03-01-2024,Air_India,Delhi,Night,one,Rourkela,Economy,Night,23.83,12990
+03-01-2024,GO_FIRST,Delhi,Morning,one,Srinagar,Economy,Evening,7.5,13043
+03-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,13.08,13410
+03-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,15.58,13410
+03-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Morning,19.5,13410
+03-01-2024,Vistara,Delhi,Early_Morning,one,Bangalore,Economy,Morning,25.83,13410
+03-01-2024,SpiceJet,Delhi,Early_Morning,one,Mumbai,Economy,Morning,4.25,13200
+03-01-2024,Vistara,Delhi,Afternoon,one,Cochin,Business,Night,9.08,14565
+03-01-2024,Vistara,Delhi,Early_Morning,one,Amritsar,Business,Night,15.42,14565
+03-01-2024,Air_India,Delhi,Morning,one,Jaipur,Business,Evening,5.67,14775
+03-01-2024,Air_India,Delhi,Morning,one,Agartala,Business,Night,11.5,15143
+03-01-2024,Vistara,Delhi,Early_Morning,one,Bhubaneshwar,Premium Economy,Night,16,15825
+03-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Afternoon,30.08,15720
+03-01-2024,Air_India,Delhi,Afternoon,one,Hyderabad,Premium Economy,Evening,4.58,15825
+03-01-2024,Air_India,Delhi,Morning,one,Nagpur,Premium Economy,Evening,7.25,15825
+03-01-2024,Air_India,Delhi,Early_Morning,one,Nashik,Premium Economy,Evening,11,15825
+03-01-2024,Vistara,Delhi,Early_Morning,one,Rourkela,Premium Economy,Night,12.83,16665
+03-01-2024,Vistara,Delhi,Early_Morning,one,Srinagar,Premium Economy,Night,17,17505
+03-01-2024,GO_FIRST,Delhi,Morning,one,Chennai,Premium Economy,Evening,8.83,17243
+03-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Premium Economy,Night,13.83,18345
+03-01-2024,Vistara,Delhi,Early_Morning,one,Chennai,Premium Economy,Afternoon,5.5,18450
+03-01-2024,Vistara,Delhi,Evening,one,Bangalore,Economy,Night,6,19815
+03-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Economy,Afternoon,6.5,20130
+03-01-2024,Air_India,Delhi,Evening,one,Cochin,Economy,Night,6.25,20025
+03-01-2024,Air_India,Delhi,Afternoon,one,Amritsar,Economy,Night,8.92,20025
+03-01-2024,Air_India,Delhi,Night,one,Jaipur,Economy,Evening,21.58,21180
+03-01-2024,Air_India,Delhi,Evening,one,Agartala,Economy,Evening,26,21180
+03-01-2024,Air_India,Delhi,Morning,one,Bhubaneshwar,Economy,Afternoon,4.83,21390
+03-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Afternoon,8,24540
+03-01-2024,SpiceJet,Delhi,Evening,zero,Hyderabad,Economy,Night,2.17,5953
+03-01-2024,SpiceJet,Delhi,Evening,zero,Nagpur,Economy,Night,2.17,5953
+03-01-2024,SpiceJet,Delhi,Early_Morning,zero,Nashik,Business,Morning,2.25,5953
+03-01-2024,SpiceJet,Delhi,Early_Morning,zero,Rourkela,Business,Morning,2.25,5953
+03-01-2024,SpiceJet,Delhi,Early_Morning,zero,Srinagar,Business,Morning,2.33,5953
+03-01-2024,SpiceJet,Delhi,Early_Morning,zero,Chennai,Economy,Morning,2.33,5953
+03-01-2024,SpiceJet,Delhi,Evening,zero,Mumbai,Economy,Night,2.33,5953
+03-01-2024,SpiceJet,Delhi,Evening,zero,Chennai,Economy,Night,2.33,5953
+03-01-2024,Vistara,Delhi,Night,zero,Bangalore,Economy,Night,2,5955
+03-01-2024,Vistara,Delhi,Morning,zero,Mumbai,Economy,Morning,2.08,5955
+03-01-2024,Vistara,Delhi,Early_Morning,zero,Cochin,Economy,Early_Morning,2.17,5955
+03-01-2024,Vistara,Delhi,Afternoon,zero,Amritsar,Economy,Afternoon,2.17,5955
+03-01-2024,Vistara,Delhi,Afternoon,zero,Jaipur,Economy,Evening,2.17,5955
+03-01-2024,Vistara,Delhi,Afternoon,zero,Agartala,Economy,Evening,2.17,5955
+03-01-2024,Vistara,Delhi,Evening,zero,Bhubaneshwar,Economy,Night,2.17,5955
+03-01-2024,Vistara,Delhi,Night,zero,Mumbai,Economy,Night,2.17,5955
+03-01-2024,Vistara,Delhi,Early_Morning,zero,Hyderabad,Economy,Morning,2.25,5955
+03-01-2024,Vistara,Delhi,Morning,zero,Nagpur,Business,Afternoon,2.25,5955
+03-01-2024,Vistara,Delhi,Evening,zero,Nashik,Business,Night,2.25,5955
+03-01-2024,Vistara,Delhi,Morning,zero,Rourkela,Business,Morning,2.33,5955
+03-01-2024,Vistara,Delhi,Morning,zero,Srinagar,Business,Afternoon,2.33,5955
+03-01-2024,Vistara,Delhi,Evening,zero,Chennai,Premium Economy,Evening,2.33,5955
+03-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Premium Economy,Night,2.33,5955
+03-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Chennai,Premium Economy,Morning,2.17,5954
+03-01-2024,GO_FIRST,Delhi,Afternoon,zero,Bangalore,Premium Economy,Evening,2.25,5954
+03-01-2024,GO_FIRST,Delhi,Afternoon,zero,Mumbai,Premium Economy,Evening,2.25,5954
+03-01-2024,GO_FIRST,Delhi,Evening,zero,Cochin,Premium Economy,Night,2.25,5954
+03-01-2024,GO_FIRST,Delhi,Morning,zero,Amritsar,Premium Economy,Afternoon,2.33,5954
+03-01-2024,GO_FIRST,Delhi,Evening,zero,Jaipur,Premium Economy,Night,2.33,5954
+03-01-2024,Indigo,Delhi,Early_Morning,zero,Agartala,Premium Economy,Morning,2.17,5955
+03-01-2024,Indigo,Delhi,Early_Morning,zero,Bhubaneshwar,Premium Economy,Morning,2.17,5955
+03-01-2024,Indigo,Delhi,Morning,zero,Mumbai,Economy,Afternoon,2.17,5955
+03-01-2024,Indigo,Delhi,Evening,zero,Hyderabad,Economy,Evening,2.17,5955
+03-01-2024,Indigo,Delhi,Evening,zero,Nagpur,Economy,Night,2.17,5955
+03-01-2024,Indigo,Delhi,Morning,zero,Nashik,Economy,Afternoon,2.25,5955
+03-01-2024,Indigo,Delhi,Afternoon,zero,Rourkela,Economy,Evening,2.25,5955
+03-01-2024,Indigo,Delhi,Night,zero,Srinagar,Economy,Night,2.25,5955
+03-01-2024,Indigo,Delhi,Morning,zero,Chennai,Economy,Morning,2.33,5955
+03-01-2024,Indigo,Delhi,Morning,zero,Mumbai,Economy,Morning,2.5,5955
+03-01-2024,Air_India,Delhi,Evening,zero,Chennai,Economy,Evening,2,5955
+03-01-2024,Air_India,Delhi,Early_Morning,zero,Bangalore,Economy,Morning,2.08,5955
+03-01-2024,Air_India,Delhi,Early_Morning,zero,Mumbai,Business,Morning,2.17,5955
+03-01-2024,Air_India,Delhi,Evening,zero,Cochin,Business,Night,2.17,5955
+03-01-2024,Air_India,Delhi,Morning,zero,Amritsar,Business,Morning,2.25,5955
+03-01-2024,Air_India,Delhi,Evening,zero,Jaipur,Economy,Night,2.25,5955
+03-01-2024,AirAsia,Delhi,Night,one,Agartala,Economy,Early_Morning,10.5,5949
+03-01-2024,AirAsia,Delhi,Evening,one,Bhubaneshwar,Economy,Early_Morning,11.67,5949
+03-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Economy,Evening,7.5,5954
+03-01-2024,GO_FIRST,Delhi,Afternoon,two_or_more,Hyderabad,Economy,Night,8.58,5954
+03-01-2024,GO_FIRST,Delhi,Morning,one,Nagpur,Economy,Evening,8.92,5954
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Nashik,Economy,Evening,11.75,5954
+03-01-2024,GO_FIRST,Delhi,Evening,one,Rourkela,Economy,Early_Morning,12.33,5954
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Srinagar,Economy,Night,14.5,5954
+03-01-2024,GO_FIRST,Delhi,Evening,one,Chennai,Economy,Morning,15.17,5954
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Mumbai,Economy,Night,15.75,5954
+03-01-2024,Air_India,Delhi,Evening,one,Chennai,Economy,Night,3.75,5955
+03-01-2024,SpiceJet,Delhi,Evening,one,Bangalore,Business,Night,4.5,5955
+03-01-2024,Indigo,Delhi,Afternoon,one,Chennai,Business,Evening,3.83,8396
+03-01-2024,Indigo,Delhi,Early_Morning,one,Bangalore,Business,Evening,10.25,8396
+03-01-2024,Vistara,Delhi,Evening,one,Mumbai,Business,Morning,18.33,9000
+03-01-2024,Vistara,Delhi,Afternoon,one,Cochin,Premium Economy,Morning,21.83,9000
+03-01-2024,Air_India,Delhi,Evening,one,Amritsar,Premium Economy,Afternoon,20.83,8790
+03-01-2024,GO_FIRST,Delhi,Early_Morning,one,Jaipur,Premium Economy,Night,14.25,8869
+03-01-2024,GO_FIRST,Delhi,Afternoon,one,Agartala,Premium Economy,Night,9.25,8892
+03-01-2024,Air_India,Delhi,Early_Morning,one,Bhubaneshwar,Premium Economy,Night,17.17,9000
+03-01-2024,Air_India,Delhi,Evening,one,Mumbai,Premium Economy,Night,24.75,9315
+04-01-2024,Air_India,Delhi,Evening,one,Jaipur,Premium Economy,Night,3.75,5955
+04-01-2024,Indigo,Delhi,Morning,zero,Agartala,Premium Economy,Morning,2.5,6165
+04-01-2024,Vistara,Delhi,Afternoon,zero,Bhubaneshwar,Premium Economy,Evening,2.17,6690
+04-01-2024,Indigo,Delhi,Evening,zero,Mumbai,Premium Economy,Evening,2.17,6585
+04-01-2024,AirAsia,Delhi,Morning,one,Hyderabad,Economy,Afternoon,5.83,8869
+04-01-2024,SpiceJet,Delhi,Evening,zero,Nagpur,Economy,Night,2.33,10260
+04-01-2024,Indigo,Delhi,Evening,zero,Nashik,Economy,Night,2.17,10470
+04-01-2024,GO_FIRST,Delhi,Early_Morning,one,Rourkela,Economy,Afternoon,8,10575
+04-01-2024,Indigo,Delhi,Afternoon,one,Srinagar,Economy,Evening,6,10838
+04-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,14.67,12150
+04-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,16.17,12150
+04-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Morning,18,12150
+04-01-2024,Vistara,Delhi,Morning,one,Bangalore,Economy,Morning,23.17,12150
+04-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Morning,24.17,12150
+04-01-2024,Air_India,Delhi,Early_Morning,one,Cochin,Business,Afternoon,8.83,11900
+04-01-2024,SpiceJet,Delhi,Evening,one,Amritsar,Business,Night,4.5,12123
+04-01-2024,SpiceJet,Delhi,Evening,one,Jaipur,Business,Morning,15.25,12123
+04-01-2024,Air_India,Delhi,Night,one,Agartala,Economy,Morning,11,12150
+04-01-2024,Air_India,Delhi,Afternoon,one,Bhubaneshwar,Economy,Morning,19.08,12150
+04-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Morning,22.83,12150
+04-01-2024,Air_India,Delhi,Early_Morning,one,Hyderabad,Economy,Morning,26.42,12150
+04-01-2024,Air_India,Delhi,Night,one,Nagpur,Economy,Afternoon,17.75,12215
+04-01-2024,SpiceJet,Delhi,Evening,one,Nashik,Economy,Afternoon,19.58,12230
+04-01-2024,Air_India,Delhi,Early_Morning,one,Hyderabad,Economy,Afternoon,9.75,9368
+04-01-2024,Indigo,Delhi,Early_Morning,one,Nagpur,Economy,Afternoon,5.08,9373
+04-01-2024,Indigo,Delhi,Morning,one,Nashik,Economy,Evening,7.67,9373
+04-01-2024,GO_FIRST,Delhi,Evening,one,Rourkela,Economy,Night,4.75,9447
+04-01-2024,Vistara,Delhi,Early_Morning,one,Srinagar,Economy,Afternoon,7,9840
+04-01-2024,Vistara,Delhi,Morning,one,Chennai,Economy,Night,12.58,9840
+04-01-2024,Vistara,Delhi,Night,one,Mumbai,Business,Morning,13.42,9840
+04-01-2024,Vistara,Delhi,Early_Morning,one,Chennai,Business,Night,15.5,9840
+04-01-2024,Vistara,Delhi,Night,one,Bangalore,Business,Afternoon,17.92,9840
+04-01-2024,Vistara,Delhi,Morning,one,Mumbai,Business,Morning,23.58,9840
+04-01-2024,Vistara,Delhi,Night,one,Cochin,Premium Economy,Night,26.42,9840
+04-01-2024,Vistara,Delhi,Early_Morning,one,Amritsar,Premium Economy,Morning,26.5,9840
+04-01-2024,Vistara,Delhi,Afternoon,one,Jaipur,Premium Economy,Afternoon,26.67,9893
+04-01-2024,Air_India,Delhi,Early_Morning,one,Agartala,Premium Economy,Evening,10.5,9590
+04-01-2024,Vistara,Delhi,Afternoon,one,Bhubaneshwar,Premium Economy,Night,8.25,9945
+04-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Premium Economy,Morning,19.25,9945
+04-01-2024,Vistara,Delhi,Afternoon,one,Hyderabad,Premium Economy,Afternoon,23.75,9945
+04-01-2024,Indigo,Delhi,Morning,one,Nagpur,Premium Economy,Afternoon,4.08,9998
+04-01-2024,Vistara,Delhi,Evening,one,Nashik,Premium Economy,Night,4.42,10575
+04-01-2024,Vistara,Delhi,Evening,one,Rourkela,Premium Economy,Night,5.33,10575
+04-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Economy,Night,7.92,10575
+04-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,16.33,10575
+04-01-2024,SpiceJet,Delhi,Early_Morning,one,Mumbai,Economy,Morning,4.25,10260
+05-01-2024,Vistara,Delhi,Evening,zero,Rourkela,Economy,Night,2.33,12780
+05-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Economy,Afternoon,26.67,12885
+05-01-2024,AirAsia,Delhi,Evening,one,Chennai,Economy,Early_Morning,15.17,12539
+05-01-2024,Air_India,Delhi,Evening,one,Mumbai,Economy,Afternoon,20.83,12938
+05-01-2024,Air_India,Delhi,Night,one,Chennai,Economy,Morning,11.42,12990
+05-01-2024,Air_India,Delhi,Morning,one,Bangalore,Economy,Morning,22.25,12990
+05-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Morning,26,12990
+05-01-2024,Air_India,Delhi,Afternoon,one,Cochin,Business,Afternoon,21.75,13086
+05-01-2024,Indigo,Delhi,Afternoon,one,Amritsar,Business,Evening,3.83,13279
+05-01-2024,Indigo,Delhi,Evening,one,Jaipur,Business,Night,4.42,13279
+05-01-2024,Indigo,Delhi,Morning,one,Agartala,Economy,Evening,7.67,13279
+05-01-2024,Indigo,Delhi,Afternoon,one,Bhubaneshwar,Economy,Night,8.33,13279
+05-01-2024,Indigo,Delhi,Night,one,Mumbai,Economy,Morning,10.42,13279
+05-01-2024,Vistara,Delhi,Afternoon,one,Hyderabad,Economy,Afternoon,23.75,13673
+05-01-2024,Air_India,Delhi,Evening,one,Nagpur,Economy,Afternoon,19.5,13410
+05-01-2024,Vistara,Delhi,Early_Morning,one,Nashik,Economy,Afternoon,6.5,13935
+05-01-2024,Vistara,Delhi,Evening,one,Rourkela,Economy,Morning,12.42,14040
+05-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Economy,Afternoon,21.08,14040
+05-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Night,26.67,14093
+05-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Night,28.17,14093
+05-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Night,28.25,14093
+05-01-2024,Indigo,Delhi,Afternoon,one,Bangalore,Economy,Night,8,13767
+05-01-2024,GO_FIRST,Delhi,Afternoon,one,Mumbai,Business,Night,9.25,13932
+05-01-2024,Vistara,Delhi,Night,one,Cochin,Business,Afternoon,17.92,14408
+05-01-2024,Vistara,Delhi,Night,one,Amritsar,Business,Night,26.42,14408
+05-01-2024,Air_India,Delhi,Night,one,Jaipur,Business,Afternoon,16.17,14250
+05-01-2024,GO_FIRST,Delhi,Morning,one,Agartala,Premium Economy,Evening,7.08,14539
+05-01-2024,Vistara,Delhi,Early_Morning,one,Bhubaneshwar,Premium Economy,Night,13.83,14985
+05-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Premium Economy,Night,7.58,14670
+05-01-2024,Air_India,Delhi,Evening,one,Hyderabad,Premium Economy,Morning,15.83,15195
+05-01-2024,Vistara,Delhi,Evening,zero,Nagpur,Premium Economy,Night,2.25,15720
+05-01-2024,Vistara,Delhi,Evening,one,Nashik,Premium Economy,Night,24.42,15983
+05-01-2024,Vistara,Delhi,Evening,one,Rourkela,Premium Economy,Night,26,15983
+05-01-2024,Indigo,Delhi,Morning,one,Srinagar,Premium Economy,Afternoon,4.17,15720
+05-01-2024,SpiceJet,Delhi,Early_Morning,one,Chennai,Premium Economy,Morning,4.25,15720
+05-01-2024,Air_India,Delhi,Early_Morning,one,Chennai,Premium Economy,Night,15.17,10260
+05-01-2024,Vistara,Delhi,Afternoon,one,Bangalore,Economy,Afternoon,25.58,10723
+05-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Economy,Evening,7.08,10549
+05-01-2024,GO_FIRST,Delhi,Early_Morning,one,Cochin,Economy,Afternoon,8,10575
+05-01-2024,Air_India,Delhi,Morning,one,Amritsar,Economy,Evening,6.42,10680
+05-01-2024,Air_India,Delhi,Evening,one,Jaipur,Economy,Evening,22.75,10680
+05-01-2024,GO_FIRST,Delhi,Morning,one,Agartala,Economy,Evening,8.83,11259
+05-01-2024,GO_FIRST,Delhi,Afternoon,one,Bhubaneshwar,Economy,Evening,5.83,11295
+05-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Night,15.67,11573
+05-01-2024,GO_FIRST,Delhi,Morning,one,Hyderabad,Economy,Evening,6.33,11609
+05-01-2024,Air_India,Delhi,Afternoon,one,Nagpur,Economy,Evening,6.33,11773
+05-01-2024,Vistara,Delhi,Early_Morning,one,Nashik,Business,Morning,5.5,12150
+05-01-2024,Vistara,Delhi,Evening,one,Rourkela,Business,Night,5.75,12150
+05-01-2024,Vistara,Delhi,Evening,one,Srinagar,Business,Night,5.83,12150
+05-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Night,6,12150
+05-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Night,6.5,12150
+05-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Night,7.33,12150
+05-01-2024,Vistara,Delhi,Afternoon,one,Bangalore,Economy,Night,7.58,12150
+05-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Night,9.17,12150
+05-01-2024,Vistara,Delhi,Morning,one,Cochin,Economy,Night,11.17,12150
+05-01-2024,Vistara,Delhi,Night,one,Amritsar,Economy,Morning,11.58,12150
+05-01-2024,Vistara,Delhi,Morning,one,Jaipur,Economy,Night,11.67,12150
+05-01-2024,Vistara,Delhi,Morning,one,Agartala,Economy,Night,12.17,12150
+05-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Economy,Morning,12.42,12150
+05-01-2024,Air_India,Delhi,Night,one,Mumbai,Economy,Afternoon,17.75,11900
+05-01-2024,GO_FIRST,Delhi,Morning,one,Hyderabad,Economy,Night,11,12045
+05-01-2024,Air_India,Delhi,Night,one,Nagpur,Business,Morning,11.33,12150
+05-01-2024,Air_India,Delhi,Morning,one,Nashik,Business,Night,11.58,12150
+05-01-2024,Air_India,Delhi,Early_Morning,one,Rourkela,Business,Night,14.92,12150
+05-01-2024,Air_India,Delhi,Evening,one,Srinagar,Business,Morning,15.25,12150
+05-01-2024,Air_India,Delhi,Morning,one,Chennai,Premium Economy,Morning,23.08,12150
+05-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Premium Economy,Morning,26.42,12150
+05-01-2024,Vistara,Delhi,Early_Morning,one,Chennai,Premium Economy,Afternoon,7.33,12990
+05-01-2024,Vistara,Delhi,Afternoon,one,Bangalore,Premium Economy,Night,9.08,13095
+05-01-2024,Vistara,Delhi,Evening,one,Mumbai,Premium Economy,Morning,13.08,13095
+06-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Premium Economy,Afternoon,5.08,15720
+06-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Night,29.33,16245
+06-01-2024,Vistara,Delhi,Evening,one,Bangalore,Premium Economy,Night,4.42,16613
+06-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Premium Economy,Night,17,16665
+06-01-2024,Vistara,Delhi,Evening,one,Cochin,Premium Economy,Night,26.67,16665
+06-01-2024,Air_India,Delhi,Evening,one,Amritsar,Economy,Night,27.17,16455
+06-01-2024,Air_India,Delhi,Evening,one,Jaipur,Economy,Night,24.75,16665
+06-01-2024,Vistara,Delhi,Evening,one,Agartala,Economy,Night,5.75,17348
+06-01-2024,Vistara,Delhi,Afternoon,one,Bhubaneshwar,Economy,Night,7.58,17348
+06-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Night,12.75,17348
+06-01-2024,Vistara,Delhi,Morning,one,Hyderabad,Economy,Night,13.75,17348
+06-01-2024,Vistara,Delhi,Evening,one,Nagpur,Economy,Morning,17.83,17348
+06-01-2024,Vistara,Delhi,Early_Morning,one,Nashik,Economy,Afternoon,5.5,17400
+06-01-2024,Vistara,Delhi,Evening,one,Rourkela,Economy,Afternoon,19.5,17505
+06-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Economy,Night,7.58,17610
+06-01-2024,Air_India,Delhi,Night,one,Chennai,Business,Night,23.83,17295
+06-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Business,Evening,5,17663
+06-01-2024,Air_India,Delhi,Night,one,Chennai,Business,Night,26.5,18030
+06-01-2024,Vistara,Delhi,Evening,one,Bangalore,Economy,Afternoon,20.83,18398
+06-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Economy,Night,12.83,18450
+06-01-2024,GO_FIRST,Delhi,Morning,one,Cochin,Economy,Evening,8.92,18487
+06-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Night,6,18923
+06-01-2024,Vistara,Delhi,Morning,one,Jaipur,Economy,Night,11.17,18923
+06-01-2024,Vistara,Delhi,Morning,one,Agartala,Economy,Night,12.17,18923
+06-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Economy,Morning,15.58,19238
+06-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,15.75,19920
+06-01-2024,Vistara,Delhi,Early_Morning,one,Cochin,Economy,Night,15.42,13095
+06-01-2024,Vistara,Delhi,Evening,one,Amritsar,Economy,Morning,15.58,13095
+06-01-2024,Air_India,Delhi,Afternoon,one,Jaipur,Economy,Night,7.92,12990
+06-01-2024,Air_India,Delhi,Night,one,Agartala,Economy,Morning,11.42,12990
+06-01-2024,Air_India,Delhi,Early_Morning,one,Bhubaneshwar,Business,Night,13.25,12990
+06-01-2024,AirAsia,Delhi,Evening,one,Mumbai,Business,Early_Morning,15.17,12990
+06-01-2024,Air_India,Delhi,Evening,one,Hyderabad,Business,Morning,15.83,12990
+06-01-2024,Vistara,Delhi,Evening,one,Nagpur,Business,Morning,15.75,13410
+06-01-2024,Air_India,Delhi,Afternoon,one,Nashik,Premium Economy,Evening,25.92,13200
+06-01-2024,Indigo,Delhi,Early_Morning,one,Rourkela,Premium Economy,Evening,8.67,13279
+06-01-2024,Vistara,Delhi,Evening,one,Srinagar,Premium Economy,Night,6,13725
+06-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Premium Economy,Night,7.58,13725
+06-01-2024,Air_India,Delhi,Night,one,Mumbai,Premium Economy,Afternoon,16.17,13410
+06-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Afternoon,19.5,13410
+06-01-2024,Vistara,Delhi,Morning,one,Bangalore,Premium Economy,Afternoon,27.58,13830
+06-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Premium Economy,Afternoon,25.25,13506
+06-01-2024,Air_India,Delhi,Afternoon,one,Cochin,Premium Economy,Afternoon,24.83,14031
+06-01-2024,Air_India,Delhi,Night,one,Amritsar,Premium Economy,Night,23.83,14355
+06-01-2024,Vistara,Delhi,Early_Morning,one,Jaipur,Economy,Afternoon,6.5,14880
+06-01-2024,Vistara,Delhi,Early_Morning,one,Chennai,Economy,Night,13.83,14880
+06-01-2024,Air_India,Delhi,Evening,one,Mumbai,Economy,Night,6.25,14670
+06-01-2024,Air_India,Delhi,Afternoon,one,Chennai,Economy,Night,8.58,14670
+06-01-2024,Air_India,Delhi,Evening,one,Bangalore,Economy,Afternoon,21.25,14985
+06-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Afternoon,30.08,15405
+06-01-2024,Air_India,Delhi,Morning,one,Cochin,Economy,Afternoon,4.83,15615
+06-01-2024,Indigo,Delhi,Morning,one,Amritsar,Economy,Evening,8.33,15720
+07-01-2024,Air_India,Delhi,Afternoon,one,Hyderabad,Economy,Night,7.92,19710
+07-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Economy,Night,13.25,19710
+07-01-2024,Vistara,Delhi,Early_Morning,one,Nashik,Business,Night,16,20130
+07-01-2024,Air_India,Delhi,Evening,one,Rourkela,Business,Evening,22.75,19815
+07-01-2024,Vistara,Delhi,Evening,one,Srinagar,Business,Night,6,21075
+07-01-2024,GO_FIRST,Delhi,Morning,one,Chennai,Economy,Evening,6.33,21111
+07-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Evening,7.25,23206
+07-01-2024,Air_India,Delhi,Morning,one,Chennai,Economy,Afternoon,30.08,24540
+07-01-2024,Air_India,Delhi,Early_Morning,one,Bangalore,Economy,Evening,11,25800
+07-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,18.25,27270
+07-01-2024,Air_India,Delhi,Morning,one,Cochin,Economy,Evening,6.08,29580
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Amritsar,Economy,Morning,2.25,5953
+07-01-2024,SpiceJet,Delhi,Evening,zero,Jaipur,Economy,Night,2.33,5953
+07-01-2024,Vistara,Delhi,Morning,zero,Agartala,Economy,Morning,2.08,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Bhubaneshwar,Economy,Night,2.17,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Economy,Night,2.25,5955
+07-01-2024,Vistara,Delhi,Morning,zero,Hyderabad,Economy,Morning,2.33,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Nagpur,Business,Night,2.33,5955
+07-01-2024,Vistara,Delhi,Night,zero,Nashik,Business,Night,2.17,6060
+07-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Rourkela,Business,Morning,2.17,5954
+07-01-2024,GO_FIRST,Delhi,Afternoon,zero,Srinagar,Business,Evening,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Evening,zero,Chennai,Premium Economy,Night,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Night,zero,Mumbai,Premium Economy,Night,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Morning,zero,Chennai,Premium Economy,Afternoon,2.33,5954
+07-01-2024,GO_FIRST,Delhi,Evening,zero,Bangalore,Premium Economy,Night,2.33,5954
+07-01-2024,Indigo,Delhi,Early_Morning,zero,Mumbai,Premium Economy,Morning,2.17,5955
+07-01-2024,Indigo,Delhi,Evening,zero,Cochin,Premium Economy,Evening,2.17,5955
+07-01-2024,Indigo,Delhi,Evening,zero,Amritsar,Premium Economy,Night,2.17,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Jaipur,Premium Economy,Afternoon,2.25,5955
+07-01-2024,Indigo,Delhi,Afternoon,zero,Agartala,Premium Economy,Evening,2.25,5955
+07-01-2024,Indigo,Delhi,Night,zero,Bhubaneshwar,Premium Economy,Night,2.25,5955
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.33,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Hyderabad,Economy,Morning,2.33,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Nagpur,Economy,Morning,2.5,5955
+07-01-2024,AirAsia,Delhi,Early_Morning,zero,Nashik,Economy,Early_Morning,2.17,5956
+07-01-2024,Air_India,Delhi,Evening,zero,Rourkela,Economy,Evening,2,5955
+07-01-2024,Air_India,Delhi,Early_Morning,zero,Srinagar,Economy,Morning,2.08,5955
+07-01-2024,Air_India,Delhi,Early_Morning,zero,Chennai,Economy,Morning,2.17,5955
+07-01-2024,Air_India,Delhi,Evening,zero,Mumbai,Economy,Night,2.17,5955
+07-01-2024,Air_India,Delhi,Evening,zero,Chennai,Economy,Night,2.25,5955
+07-01-2024,AirAsia,Delhi,Evening,one,Bangalore,Economy,Early_Morning,12.25,5949
+07-01-2024,AirAsia,Delhi,Evening,one,Mumbai,Business,Morning,16.33,5949
+07-01-2024,GO_FIRST,Delhi,Early_Morning,one,Cochin,Business,Night,12.33,5954
+07-01-2024,GO_FIRST,Delhi,Evening,one,Amritsar,Business,Early_Morning,12.33,5954
+07-01-2024,Air_India,Delhi,Afternoon,one,Jaipur,Economy,Evening,3.5,5955
+07-01-2024,Air_India,Delhi,Evening,one,Agartala,Economy,Night,3.75,5955
+07-01-2024,Vistara,Delhi,Morning,zero,Bhubaneshwar,Economy,Afternoon,2.25,6375
+07-01-2024,Vistara,Delhi,Afternoon,zero,Mumbai,Economy,Evening,2.17,7530
+07-01-2024,Vistara,Delhi,Afternoon,zero,Hyderabad,Economy,Evening,2.17,7530
+07-01-2024,Vistara,Delhi,Morning,zero,Nagpur,Economy,Afternoon,2.33,7530
+07-01-2024,AirAsia,Delhi,Evening,one,Nashik,Economy,Early_Morning,15.17,7419
+07-01-2024,Indigo,Delhi,Morning,zero,Rourkela,Economy,Afternoon,2.17,7845
+07-01-2024,Indigo,Delhi,Early_Morning,one,Srinagar,Economy,Evening,10.25,8396
+07-01-2024,SpiceJet,Delhi,Evening,one,Chennai,Economy,Night,4.5,8869
+07-01-2024,SpiceJet,Delhi,Evening,one,Mumbai,Economy,Morning,15.25,9183
+07-01-2024,Air_India,Delhi,Early_Morning,one,Chennai,Economy,Afternoon,7.25,9840
+07-01-2024,Air_India,Delhi,Evening,one,Jaipur,Business,Night,29.33,16245
+07-01-2024,Air_India,Delhi,Early_Morning,one,Agartala,Business,Afternoon,8,17505
+07-01-2024,Vistara,Delhi,Early_Morning,one,Bhubaneshwar,Business,Afternoon,5.5,18345
+07-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Business,Night,12.83,18345
+07-01-2024,Air_India,Delhi,Morning,one,Hyderabad,Premium Economy,Evening,5.67,19500
+07-01-2024,Air_India,Delhi,Morning,one,Nagpur,Premium Economy,Evening,8.42,21180
+07-01-2024,Air_India,Delhi,Early_Morning,one,Nashik,Premium Economy,Evening,12.17,21180
+07-01-2024,Air_India,Delhi,Morning,one,Rourkela,Premium Economy,Night,11.5,21443
+07-01-2024,Air_India,Delhi,Night,one,Srinagar,Premium Economy,Evening,20.42,22755
+07-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Evening,24.83,22755
+07-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Night,10.92,24908
+07-01-2024,SpiceJet,Delhi,Evening,zero,Chennai,Premium Economy,Night,2.17,5953
+07-01-2024,SpiceJet,Delhi,Evening,zero,Bangalore,Premium Economy,Night,2.17,5953
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Mumbai,Premium Economy,Morning,2.25,5953
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Cochin,Economy,Morning,2.25,5953
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Amritsar,Economy,Morning,2.33,5953
+07-01-2024,SpiceJet,Delhi,Early_Morning,zero,Jaipur,Economy,Morning,2.33,5953
+07-01-2024,SpiceJet,Delhi,Evening,zero,Agartala,Economy,Night,2.33,5953
+07-01-2024,SpiceJet,Delhi,Evening,zero,Bhubaneshwar,Economy,Night,2.33,5953
+07-01-2024,AirAsia,Delhi,Early_Morning,zero,Mumbai,Economy,Early_Morning,2.17,5956
+07-01-2024,Vistara,Delhi,Morning,zero,Hyderabad,Economy,Morning,2.08,5955
+07-01-2024,Vistara,Delhi,Early_Morning,zero,Nagpur,Economy,Early_Morning,2.17,5955
+07-01-2024,Vistara,Delhi,Afternoon,zero,Nashik,Economy,Afternoon,2.17,5955
+07-01-2024,Vistara,Delhi,Afternoon,zero,Rourkela,Economy,Evening,2.17,5955
+07-01-2024,Vistara,Delhi,Afternoon,zero,Srinagar,Business,Evening,2.17,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Chennai,Business,Night,2.17,5955
+07-01-2024,Vistara,Delhi,Night,zero,Mumbai,Business,Night,2.17,5955
+07-01-2024,Vistara,Delhi,Early_Morning,zero,Chennai,Economy,Morning,2.25,5955
+07-01-2024,Vistara,Delhi,Morning,zero,Bangalore,Economy,Afternoon,2.25,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Economy,Night,2.25,5955
+07-01-2024,Vistara,Delhi,Morning,zero,Cochin,Economy,Morning,2.33,5955
+07-01-2024,Vistara,Delhi,Morning,zero,Amritsar,Economy,Afternoon,2.33,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Jaipur,Economy,Evening,2.33,5955
+07-01-2024,Vistara,Delhi,Evening,zero,Agartala,Economy,Night,2.33,5955
+07-01-2024,Vistara,Delhi,Night,zero,Bhubaneshwar,Economy,Night,2,6060
+07-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.17,5954
+07-01-2024,GO_FIRST,Delhi,Afternoon,zero,Hyderabad,Economy,Evening,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Evening,zero,Nagpur,Economy,Night,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Night,zero,Nashik,Economy,Night,2.25,5954
+07-01-2024,GO_FIRST,Delhi,Morning,zero,Rourkela,Business,Afternoon,2.33,5954
+07-01-2024,GO_FIRST,Delhi,Evening,zero,Srinagar,Business,Night,2.33,5954
+07-01-2024,Indigo,Delhi,Early_Morning,zero,Chennai,Business,Morning,2.17,5955
+07-01-2024,Indigo,Delhi,Early_Morning,zero,Mumbai,Business,Morning,2.17,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Chennai,Premium Economy,Afternoon,2.17,5955
+07-01-2024,Indigo,Delhi,Evening,zero,Bangalore,Premium Economy,Night,2.17,5955
+07-01-2024,Indigo,Delhi,Night,zero,Mumbai,Premium Economy,Late_Night,2.17,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Cochin,Premium Economy,Morning,2.33,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Amritsar,Premium Economy,Afternoon,2.33,5955
+07-01-2024,Indigo,Delhi,Morning,zero,Jaipur,Premium Economy,Morning,2.5,5955
+07-01-2024,Air_India,Delhi,Evening,zero,Agartala,Premium Economy,Evening,2,5955
+07-01-2024,Air_India,Delhi,Early_Morning,zero,Bhubaneshwar,Premium Economy,Morning,2.08,5955
+07-01-2024,Air_India,Delhi,Early_Morning,zero,Mumbai,Premium Economy,Morning,2.17,5955
+07-01-2024,Air_India,Delhi,Evening,zero,Hyderabad,Premium Economy,Night,2.17,5955
+07-01-2024,Air_India,Delhi,Morning,zero,Nagpur,Economy,Morning,2.25,5955
+07-01-2024,Air_India,Delhi,Evening,zero,Nashik,Economy,Night,2.25,5955
+07-01-2024,AirAsia,Delhi,Night,one,Rourkela,Economy,Early_Morning,10.5,5949
+08-01-2024,Air_India,Delhi,Morning,one,Bangalore,Economy,Night,14.17,9840
+08-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Night,15.75,9840
+08-01-2024,Vistara,Delhi,Afternoon,one,Cochin,Economy,Afternoon,25.58,10566
+08-01-2024,Air_India,Delhi,Afternoon,one,Amritsar,Economy,Evening,6.33,10303
+08-01-2024,Indigo,Delhi,Morning,one,Jaipur,Economy,Afternoon,4.08,10523
+08-01-2024,Air_India,Delhi,Early_Morning,one,Agartala,Economy,Afternoon,9.75,10523
+08-01-2024,Vistara,Delhi,Night,one,Bhubaneshwar,Economy,Night,26.42,11048
+08-01-2024,Indigo,Delhi,Evening,one,Mumbai,Business,Night,4.42,10838
+08-01-2024,Indigo,Delhi,Afternoon,one,Hyderabad,Business,Night,8.33,10838
+08-01-2024,Indigo,Delhi,Night,one,Nagpur,Business,Morning,10.42,10838
+08-01-2024,Air_India,Delhi,Evening,one,Nashik,Economy,Night,6.67,11100
+08-01-2024,Indigo,Delhi,Afternoon,one,Rourkela,Economy,Night,8,11326
+08-01-2024,Indigo,Delhi,Morning,two_or_more,Srinagar,Economy,Evening,9.67,11678
+08-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,12.42,12150
+08-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,14.67,12150
+08-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,16.17,12150
+08-01-2024,Vistara,Delhi,Morning,one,Bangalore,Economy,Morning,24.17,12150
+08-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Economy,Evening,3.83,11814
+08-01-2024,Indigo,Delhi,Morning,one,Cochin,Economy,Evening,7.67,11814
+08-01-2024,Air_India,Delhi,Early_Morning,one,Amritsar,Economy,Afternoon,10.08,11900
+08-01-2024,Vistara,Delhi,Morning,one,Jaipur,Economy,Night,12.58,12308
+08-01-2024,Vistara,Delhi,Evening,one,Agartala,Economy,Night,4.42,12570
+08-01-2024,Vistara,Delhi,Morning,one,Bhubaneshwar,Business,Morning,23.17,12570
+08-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Business,Afternoon,7,12623
+08-01-2024,Vistara,Delhi,Afternoon,one,Hyderabad,Business,Night,8.25,12623
+08-01-2024,Vistara,Delhi,Early_Morning,one,Nagpur,Business,Night,15.5,12623
+08-01-2024,Air_India,Delhi,Early_Morning,one,Nashik,Premium Economy,Afternoon,7.25,12298
+08-01-2024,Indigo,Delhi,Night,one,Rourkela,Premium Economy,Morning,10.17,12302
+08-01-2024,Air_India,Delhi,Night,one,Srinagar,Premium Economy,Night,23.5,12465
+08-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Premium Economy,Morning,18,12990
+08-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Late_Night,13.25,12675
+08-01-2024,SpiceJet,Delhi,Afternoon,one,Chennai,Premium Economy,Evening,25.75,12850
+08-01-2024,AirAsia,Delhi,Evening,one,Srinagar,Premium Economy,Early_Morning,11.67,5949
+08-01-2024,AirAsia,Delhi,Night,one,Chennai,Premium Economy,Morning,14,5949
+08-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Premium Economy,Evening,7.5,5954
+08-01-2024,GO_FIRST,Delhi,Early_Morning,one,Chennai,Premium Economy,Afternoon,8,5954
+08-01-2024,GO_FIRST,Delhi,Morning,one,Bangalore,Economy,Evening,8.83,5954
+08-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Economy,Evening,8.92,5954
+08-01-2024,GO_FIRST,Delhi,Afternoon,one,Cochin,Economy,Night,9.25,5954
+08-01-2024,GO_FIRST,Delhi,Early_Morning,one,Amritsar,Economy,Evening,11.75,5954
+08-01-2024,GO_FIRST,Delhi,Evening,one,Jaipur,Economy,Early_Morning,12.33,5954
+08-01-2024,GO_FIRST,Delhi,Early_Morning,one,Agartala,Economy,Night,14.25,5954
+08-01-2024,GO_FIRST,Delhi,Early_Morning,one,Bhubaneshwar,Economy,Night,14.5,5954
+08-01-2024,GO_FIRST,Delhi,Evening,one,Mumbai,Economy,Morning,15.17,5954
+08-01-2024,GO_FIRST,Delhi,Early_Morning,one,Hyderabad,Economy,Night,15.75,5954
+08-01-2024,Air_India,Delhi,Afternoon,one,Nagpur,Economy,Evening,3.5,5955
+08-01-2024,Air_India,Delhi,Evening,one,Nashik,Business,Night,3.75,5955
+08-01-2024,Indigo,Delhi,Early_Morning,one,Rourkela,Business,Afternoon,7.58,5955
+08-01-2024,SpiceJet,Delhi,Evening,one,Srinagar,Business,Night,4.5,6060
+08-01-2024,SpiceJet,Delhi,Afternoon,one,Chennai,Economy,Evening,25.75,6060
+08-01-2024,Indigo,Delhi,Night,zero,Mumbai,Economy,Night,2.25,6165
+08-01-2024,SpiceJet,Delhi,Evening,one,Chennai,Economy,Early_Morning,13.25,6270
+08-01-2024,GO_FIRST,Delhi,Afternoon,zero,Bangalore,Economy,Evening,2.25,6532
+08-01-2024,Indigo,Delhi,Evening,zero,Mumbai,Economy,Evening,2.17,6585
+08-01-2024,Indigo,Delhi,Afternoon,zero,Cochin,Economy,Evening,2.25,6585
+08-01-2024,Indigo,Delhi,Morning,one,Amritsar,Economy,Afternoon,4.17,6638
+08-01-2024,Indigo,Delhi,Evening,one,Jaipur,Economy,Night,5.33,6932
+08-01-2024,Indigo,Delhi,Afternoon,one,Agartala,Economy,Night,10.33,6932
+08-01-2024,Indigo,Delhi,Evening,one,Bhubaneshwar,Economy,Night,4.42,7420
+08-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Economy,Afternoon,5.08,7908
+08-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Economy,Morning,18.33,9000
+08-01-2024,Vistara,Delhi,Afternoon,one,Nagpur,Business,Morning,21.83,9000
+08-01-2024,GO_FIRST,Delhi,Evening,one,Nashik,Business,Night,4.75,8869
+08-01-2024,AirAsia,Delhi,Evening,one,Rourkela,Business,Early_Morning,15.17,8869
+09-01-2024,Air_India,Delhi,Night,one,Bangalore,Business,Morning,11.42,12990
+09-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Night,11.5,12990
+09-01-2024,Air_India,Delhi,Night,one,Cochin,Premium Economy,Afternoon,16.17,12990
+09-01-2024,Air_India,Delhi,Evening,one,Amritsar,Premium Economy,Afternoon,19.5,12990
+09-01-2024,Air_India,Delhi,Morning,one,Jaipur,Premium Economy,Morning,21.42,12990
+09-01-2024,GO_FIRST,Delhi,Early_Morning,one,Agartala,Premium Economy,Night,14.25,13069
+09-01-2024,GO_FIRST,Delhi,Early_Morning,one,Bhubaneshwar,Premium Economy,Afternoon,7.75,13321
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Premium Economy,Night,5.33,13673
+09-01-2024,Vistara,Delhi,Afternoon,one,Hyderabad,Premium Economy,Afternoon,21.08,13830
+09-01-2024,Vistara,Delhi,Evening,one,Nagpur,Premium Economy,Night,5.75,14093
+09-01-2024,Vistara,Delhi,Morning,one,Nashik,Premium Economy,Night,12.17,14093
+09-01-2024,Vistara,Delhi,Morning,one,Rourkela,Economy,Night,13.75,14093
+09-01-2024,Air_India,Delhi,Evening,one,Srinagar,Economy,Morning,15.83,13830
+09-01-2024,GO_FIRST,Delhi,Early_Morning,one,Chennai,Economy,Evening,11.75,14129
+09-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Night,11.17,14513
+09-01-2024,Vistara,Delhi,Morning,one,Chennai,Economy,Night,12.75,14513
+09-01-2024,Air_India,Delhi,Morning,one,Bangalore,Economy,Evening,5.67,14250
+09-01-2024,GO_FIRST,Delhi,Evening,one,Mumbai,Economy,Morning,15.17,14409
+09-01-2024,GO_FIRST,Delhi,Evening,one,Cochin,Economy,Night,4.75,14487
+09-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Night,6,14933
+09-01-2024,Vistara,Delhi,Afternoon,one,Jaipur,Economy,Night,7.58,14933
+09-01-2024,Vistara,Delhi,Afternoon,one,Agartala,Business,Night,7.92,15038
+09-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Business,Morning,15.58,15353
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Business,Morning,17.83,15353
+09-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Economy,Morning,19.33,15353
+09-01-2024,Vistara,Delhi,Evening,one,Nagpur,Economy,Night,26,15353
+09-01-2024,Vistara,Delhi,Evening,one,Nashik,Economy,Night,28.25,15353
+09-01-2024,GO_FIRST,Delhi,Morning,one,Rourkela,Economy,Evening,7.08,15117
+09-01-2024,Air_India,Delhi,Early_Morning,one,Srinagar,Economy,Morning,26,15195
+09-01-2024,Indigo,Delhi,Early_Morning,one,Chennai,Economy,Afternoon,5.08,15232
+09-01-2024,Air_India,Delhi,Evening,one,Mumbai,Economy,Night,6.25,15510
+09-01-2024,Indigo,Delhi,Morning,one,Chennai,Economy,Afternoon,4.17,15720
+09-01-2024,SpiceJet,Delhi,Early_Morning,one,Bangalore,Economy,Morning,4.25,15720
+09-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Economy,Night,10.33,15720
+09-01-2024,Air_India,Delhi,Early_Morning,one,Cochin,Economy,Night,13.25,16035
+09-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Night,9.08,16560
+09-01-2024,Vistara,Delhi,Early_Morning,one,Jaipur,Business,Night,15.42,16560
+09-01-2024,GO_FIRST,Delhi,Early_Morning,one,Agartala,Business,Afternoon,8,16823
+09-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Business,Night,24.42,17348
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Business,Night,26.67,17348
+09-01-2024,GO_FIRST,Delhi,Afternoon,one,Hyderabad,Premium Economy,Night,9.25,17136
+09-01-2024,Air_India,Delhi,Night,one,Nagpur,Premium Economy,Night,23.83,18135
+09-01-2024,Air_India,Delhi,Evening,one,Nashik,Premium Economy,Night,27.17,18135
+09-01-2024,Vistara,Delhi,Afternoon,one,Rourkela,Premium Economy,Evening,5,19343
+09-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Premium Economy,Afternoon,26.67,19553
+09-01-2024,Vistara,Delhi,Early_Morning,one,Chennai,Premium Economy,Afternoon,6.5,19815
+09-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Afternoon,4.83,20445
+09-01-2024,Air_India,Delhi,Afternoon,one,Chennai,Premium Economy,Afternoon,25.83,21180
+09-01-2024,Air_India,Delhi,Afternoon,one,Bangalore,Premium Economy,Night,8.92,22335
+09-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Premium Economy,Evening,7.5,23281
+09-01-2024,GO_FIRST,Delhi,Morning,one,Cochin,Economy,Evening,8.83,23281
+09-01-2024,Vistara,Delhi,Morning,one,Amritsar,Economy,Afternoon,27.58,24488
+09-01-2024,Air_India,Delhi,Early_Morning,one,Jaipur,Economy,Afternoon,8,24855
+09-01-2024,Vistara,Delhi,Afternoon,one,Agartala,Economy,Night,28.42,25905
+09-01-2024,Vistara,Delhi,Early_Morning,one,Bhubaneshwar,Economy,Night,13.83,29160
+09-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Evening,6.42,29580
+09-01-2024,SpiceJet,Delhi,Early_Morning,zero,Hyderabad,Economy,Morning,2.25,5953
+09-01-2024,SpiceJet,Delhi,Early_Morning,zero,Nagpur,Economy,Morning,2.33,5953
+09-01-2024,SpiceJet,Delhi,Evening,zero,Nashik,Economy,Night,2.33,5953
+09-01-2024,Vistara,Delhi,Morning,zero,Rourkela,Economy,Morning,2.08,5955
+09-01-2024,Vistara,Delhi,Morning,zero,Srinagar,Business,Afternoon,2.25,5955
+09-01-2024,Vistara,Delhi,Morning,zero,Chennai,Business,Morning,2.33,5955
+09-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Mumbai,Business,Morning,2.17,5954
+09-01-2024,GO_FIRST,Delhi,Evening,zero,Chennai,Economy,Night,2.25,5954
+09-01-2024,GO_FIRST,Delhi,Morning,zero,Bangalore,Economy,Afternoon,2.33,5954
+09-01-2024,GO_FIRST,Delhi,Evening,zero,Mumbai,Economy,Night,2.33,5954
+09-01-2024,Indigo,Delhi,Early_Morning,zero,Cochin,Economy,Morning,2.17,5955
+09-01-2024,Indigo,Delhi,Morning,zero,Amritsar,Economy,Afternoon,2.25,5955
+09-01-2024,Indigo,Delhi,Morning,zero,Jaipur,Economy,Morning,2.33,5955
+09-01-2024,Indigo,Delhi,Morning,zero,Agartala,Economy,Morning,2.5,5955
+09-01-2024,AirAsia,Delhi,Early_Morning,zero,Bhubaneshwar,Economy,Early_Morning,2.17,5956
+09-01-2024,Air_India,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.08,5955
+09-01-2024,Air_India,Delhi,Early_Morning,zero,Hyderabad,Economy,Morning,2.17,5955
+09-01-2024,Air_India,Delhi,Evening,zero,Nagpur,Economy,Night,2.17,5955
+09-01-2024,Air_India,Delhi,Evening,zero,Nashik,Economy,Night,2.25,5955
+09-01-2024,GO_FIRST,Delhi,Evening,one,Rourkela,Business,Early_Morning,12.33,5954
+09-01-2024,GO_FIRST,Delhi,Early_Morning,one,Srinagar,Business,Night,15.75,5954
+09-01-2024,Air_India,Delhi,Evening,one,Chennai,Business,Night,3.75,5955
+09-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Business,Night,2.17,6375
+09-01-2024,SpiceJet,Delhi,Evening,zero,Chennai,Premium Economy,Night,2.17,6060
+09-01-2024,SpiceJet,Delhi,Evening,one,Bangalore,Premium Economy,Early_Morning,13.25,6270
+09-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Premium Economy,Night,2.25,6690
+09-01-2024,GO_FIRST,Delhi,Afternoon,zero,Cochin,Premium Economy,Evening,2.25,6532
+09-01-2024,GO_FIRST,Delhi,Night,zero,Amritsar,Premium Economy,Night,2.25,6532
+09-01-2024,Vistara,Delhi,Morning,zero,Jaipur,Premium Economy,Afternoon,2.33,7005
+09-01-2024,Air_India,Delhi,Evening,zero,Agartala,Premium Economy,Evening,2,6795
+09-01-2024,GO_FIRST,Delhi,Afternoon,zero,Bhubaneshwar,Premium Economy,Evening,2.25,7110
+09-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Premium Economy,Evening,10.25,7420
+09-01-2024,Indigo,Delhi,Morning,one,Hyderabad,Premium Economy,Afternoon,5,7583
+09-01-2024,Indigo,Delhi,Morning,zero,Nagpur,Economy,Afternoon,2.17,7845
+09-01-2024,Indigo,Delhi,Evening,zero,Nashik,Economy,Night,2.17,8055
+09-01-2024,Indigo,Delhi,Evening,zero,Rourkela,Economy,Evening,2.17,8370
+09-01-2024,Indigo,Delhi,Afternoon,zero,Srinagar,Economy,Evening,2.25,8370
+09-01-2024,Vistara,Delhi,Afternoon,zero,Chennai,Economy,Evening,2.17,9525
+09-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Afternoon,25.58,9988
+09-01-2024,AirAsia,Delhi,Evening,one,Chennai,Economy,Early_Morning,12.25,9840
+09-01-2024,Air_India,Delhi,Afternoon,one,Bangalore,Economy,Afternoon,24.58,9988
+09-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Economy,Evening,6,10523
+09-01-2024,Vistara,Delhi,Early_Morning,one,Cochin,Economy,Night,15.5,11048
+09-01-2024,SpiceJet,Delhi,Evening,one,Amritsar,Business,Morning,15.25,10759
+09-01-2024,Air_India,Delhi,Evening,one,Jaipur,Business,Night,24.75,10785
+09-01-2024,Indigo,Delhi,Evening,one,Srinagar,Business,Night,4.92,8885
+09-01-2024,Air_India,Delhi,Early_Morning,one,Chennai,Economy,Night,15.17,9000
+09-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Night,17.17,9000
+09-01-2024,Air_India,Delhi,Evening,one,Chennai,Economy,Night,24.75,9000
+09-01-2024,Air_India,Delhi,Early_Morning,one,Bangalore,Economy,Afternoon,9.75,9368
+09-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Economy,Afternoon,7,9840
+09-01-2024,Vistara,Delhi,Afternoon,one,Cochin,Economy,Night,8.25,9840
+09-01-2024,Vistara,Delhi,Morning,one,Amritsar,Economy,Night,12.58,9840
+09-01-2024,Vistara,Delhi,Night,one,Jaipur,Economy,Morning,13.42,9840
+09-01-2024,Vistara,Delhi,Early_Morning,one,Agartala,Economy,Night,15.5,9840
+09-01-2024,Vistara,Delhi,Night,one,Bhubaneshwar,Economy,Afternoon,17.92,9840
+09-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Morning,19.25,9840
+09-01-2024,Vistara,Delhi,Morning,one,Hyderabad,Economy,Morning,23.58,9840
+09-01-2024,Vistara,Delhi,Afternoon,one,Nagpur,Business,Afternoon,23.75,9840
+09-01-2024,Vistara,Delhi,Night,one,Nashik,Business,Night,26.42,9840
+09-01-2024,Air_India,Delhi,Afternoon,one,Rourkela,Business,Afternoon,26.83,9525
+09-01-2024,Vistara,Delhi,Evening,one,Srinagar,Business,Night,5.33,9945
+09-01-2024,Vistara,Delhi,Evening,one,Chennai,Premium Economy,Morning,16.33,9945
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Premium Economy,Afternoon,20.83,9945
+09-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Premium Economy,Afternoon,25.58,10198
+09-01-2024,Indigo,Delhi,Afternoon,one,Bangalore,Premium Economy,Evening,6,10003
+09-01-2024,Air_India,Delhi,Evening,one,Mumbai,Premium Economy,Afternoon,20.83,10103
+09-01-2024,Air_India,Delhi,Early_Morning,one,Cochin,Premium Economy,Night,15.67,10313
+09-01-2024,Air_India,Delhi,Morning,one,Amritsar,Premium Economy,Evening,6.42,10680
+09-01-2024,Air_India,Delhi,Evening,one,Jaipur,Premium Economy,Evening,22.75,10680
+09-01-2024,Indigo,Delhi,Afternoon,one,Agartala,Premium Economy,Night,8,10838
+09-01-2024,Air_India,Delhi,Evening,one,Bhubaneshwar,Premium Economy,Evening,25.08,10921
+09-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Economy,Evening,7.08,11127
+09-01-2024,GO_FIRST,Delhi,Morning,one,Hyderabad,Economy,Evening,8,11179
+09-01-2024,SpiceJet,Delhi,Evening,one,Nagpur,Economy,Morning,15.25,11281
+09-01-2024,GO_FIRST,Delhi,Afternoon,one,Nashik,Economy,Evening,5.83,11295
+09-01-2024,Air_India,Delhi,Afternoon,one,Rourkela,Economy,Evening,4.58,11520
+09-01-2024,GO_FIRST,Delhi,Morning,one,Srinagar,Economy,Evening,6.33,11609
+09-01-2024,Air_India,Delhi,Evening,one,Chennai,Economy,Afternoon,20.58,11730
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Night,5.75,12150
+09-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Night,5.83,12150
+09-01-2024,Vistara,Delhi,Afternoon,one,Bangalore,Economy,Night,6,12150
+09-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Business,Night,6.5,12150
+09-01-2024,Vistara,Delhi,Evening,one,Cochin,Business,Night,7.33,12150
+09-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Business,Night,7.58,12150
+09-01-2024,Vistara,Delhi,Afternoon,one,Jaipur,Economy,Night,9.17,12150
+09-01-2024,Vistara,Delhi,Morning,one,Agartala,Economy,Night,11.17,12150
+09-01-2024,Vistara,Delhi,Night,one,Bhubaneshwar,Economy,Morning,11.58,12150
+09-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Night,11.67,12150
+09-01-2024,Vistara,Delhi,Morning,one,Hyderabad,Economy,Night,12.17,12150
+09-01-2024,Vistara,Delhi,Evening,one,Nagpur,Economy,Morning,12.42,12150
+09-01-2024,Vistara,Delhi,Morning,one,Nashik,Economy,Night,12.67,12150
+09-01-2024,Indigo,Delhi,Morning,one,Rourkela,Economy,Evening,7.67,11814
+09-01-2024,Air_India,Delhi,Early_Morning,one,Srinagar,Economy,Afternoon,10.08,11900
+09-01-2024,Air_India,Delhi,Night,one,Chennai,Economy,Afternoon,16.5,11900
+09-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Economy,Evening,25.92,11940
+09-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Afternoon,26.67,12308
+09-01-2024,GO_FIRST,Delhi,Morning,one,Bangalore,Business,Night,11,12045
+09-01-2024,Air_India,Delhi,Afternoon,one,Mumbai,Business,Night,7.58,12150
+09-01-2024,Air_India,Delhi,Morning,one,Cochin,Business,Night,11.33,12150
+09-01-2024,Air_India,Delhi,Night,one,Amritsar,Business,Morning,11.33,12150
+09-01-2024,Air_India,Delhi,Early_Morning,one,Jaipur,Premium Economy,Night,14.92,12150
+09-01-2024,Air_India,Delhi,Evening,one,Agartala,Premium Economy,Morning,15.25,12150
+09-01-2024,Air_India,Delhi,Afternoon,one,Bhubaneshwar,Premium Economy,Morning,19.08,12150
+09-01-2024,Air_India,Delhi,Morning,one,Mumbai,Premium Economy,Morning,22.83,12150
+09-01-2024,Air_India,Delhi,Early_Morning,one,Hyderabad,Premium Economy,Morning,26.42,12150
+09-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Premium Economy,Afternoon,7.25,12298
+09-01-2024,SpiceJet,Delhi,Early_Morning,one,Nashik,Premium Economy,Morning,4.25,12360
+09-01-2024,Air_India,Delhi,Evening,one,Rourkela,Premium Economy,Afternoon,21.25,12518
+09-01-2024,Vistara,Delhi,Early_Morning,one,Srinagar,Premium Economy,Afternoon,7.33,12990
+09-01-2024,Vistara,Delhi,Evening,one,Chennai,Premium Economy,Morning,15.75,12990
+09-01-2024,Vistara,Delhi,Afternoon,one,Mumbai,Economy,Night,7.58,13095
+09-01-2024,Vistara,Delhi,Evening,one,Chennai,Economy,Morning,13.08,13095
+09-01-2024,Vistara,Delhi,Early_Morning,one,Bangalore,Economy,Night,15.42,13095
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Morning,15.58,13095
+09-01-2024,Indigo,Delhi,Night,one,Cochin,Economy,Morning,10.42,12833
+09-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Economy,Night,9.08,13200
+09-01-2024,Air_India,Delhi,Night,one,Jaipur,Economy,Morning,11.42,12990
+09-01-2024,Air_India,Delhi,Evening,one,Agartala,Economy,Morning,15.83,12990
+09-01-2024,Air_India,Delhi,Night,one,Bhubaneshwar,Economy,Afternoon,16.17,12990
+09-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Night,6,13410
+09-01-2024,Vistara,Delhi,Early_Morning,one,Hyderabad,Business,Night,16,13725
+09-01-2024,Vistara,Delhi,Early_Morning,one,Nagpur,Business,Afternoon,6.5,13830
+09-01-2024,Vistara,Delhi,Afternoon,one,Nashik,Business,Evening,5,13988
+09-01-2024,Vistara,Delhi,Night,one,Rourkela,Economy,Afternoon,16.5,14355
+09-01-2024,Vistara,Delhi,Early_Morning,one,Srinagar,Economy,Afternoon,5.5,14565
+09-01-2024,Air_India,Delhi,Evening,one,Chennai,Economy,Afternoon,19.5,14250
+09-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Economy,Morning,4.83,14255
+09-01-2024,SpiceJet,Delhi,Afternoon,one,Chennai,Economy,Afternoon,21.08,14328
+09-01-2024,Air_India,Delhi,Night,one,Bangalore,Economy,Night,23.83,14355
+09-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Economy,Night,13.83,14880
+09-01-2024,Air_India,Delhi,Evening,one,Cochin,Economy,Night,6.25,14670
+09-01-2024,Air_India,Delhi,Afternoon,one,Amritsar,Economy,Night,8.92,14670
+09-01-2024,Air_India,Delhi,Morning,one,Jaipur,Economy,Afternoon,4.83,14775
+09-01-2024,Air_India,Delhi,Early_Morning,one,Agartala,Economy,Night,13.25,14775
+09-01-2024,Air_India,Delhi,Night,one,Bhubaneshwar,Economy,Night,26.5,14880
+09-01-2024,Vistara,Delhi,Early_Morning,one,Mumbai,Business,Night,12.83,15615
+09-01-2024,Air_India,Delhi,Morning,one,Hyderabad,Business,Afternoon,30.08,15405
+09-01-2024,Air_India,Delhi,Evening,one,Nagpur,Business,Night,27.17,15615
+09-01-2024,Indigo,Delhi,Night,one,Nashik,Business,Morning,10.17,15720
+09-01-2024,Air_India,Delhi,Morning,one,Rourkela,Premium Economy,Night,11.5,17925
+09-01-2024,Air_India,Delhi,Morning,one,Srinagar,Premium Economy,Night,10.92,18765
+09-01-2024,Air_India,Delhi,Morning,one,Chennai,Premium Economy,Evening,5.67,19500
+09-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Premium Economy,Evening,12.58,20445
+09-01-2024,Air_India,Delhi,Night,one,Chennai,Premium Economy,Evening,20.42,21180
+09-01-2024,Air_India,Delhi,Evening,one,Bangalore,Premium Economy,Evening,24.83,21180
+10-01-2024,GO_FIRST,Delhi,Early_Morning,one,Agartala,Premium Economy,Night,14.25,10863
+10-01-2024,Indigo,Delhi,Night,one,Bhubaneshwar,Premium Economy,Morning,10.42,10943
+10-01-2024,Vistara,Delhi,Night,one,Mumbai,Premium Economy,Afternoon,17.92,11415
+10-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Premium Economy,Afternoon,20.83,11415
+10-01-2024,Vistara,Delhi,Night,one,Nagpur,Economy,Night,26.42,11415
+10-01-2024,Indigo,Delhi,Evening,one,Nashik,Economy,Night,4.42,11326
+10-01-2024,Indigo,Delhi,Afternoon,one,Rourkela,Economy,Night,8.33,11326
+10-01-2024,Air_India,Delhi,Evening,one,Srinagar,Economy,Afternoon,20.83,11468
+10-01-2024,Vistara,Delhi,Morning,one,Chennai,Economy,Night,12.58,12098
+10-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Morning,24.17,12150
+10-01-2024,SpiceJet,Delhi,Evening,one,Chennai,Economy,Night,4.5,11809
+10-01-2024,Indigo,Delhi,Afternoon,one,Bangalore,Economy,Evening,3.83,11814
+10-01-2024,Indigo,Delhi,Morning,one,Mumbai,Economy,Evening,7.67,11814
+10-01-2024,Air_India,Delhi,Night,one,Cochin,Economy,Afternoon,16.5,11900
+10-01-2024,Indigo,Delhi,Early_Morning,one,Amritsar,Business,Morning,4.83,11993
+10-01-2024,SpiceJet,Delhi,Afternoon,one,Jaipur,Business,Evening,25.75,12010
+10-01-2024,GO_FIRST,Delhi,Morning,two_or_more,Agartala,Business,Night,11,12045
+10-01-2024,GO_FIRST,Delhi,Evening,one,Bhubaneshwar,Economy,Morning,15.17,12045
+10-01-2024,Air_India,Delhi,Night,one,Mumbai,Economy,Morning,11.33,12150
+10-01-2024,Air_India,Delhi,Night,one,Hyderabad,Economy,Night,23.83,12150
+10-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Economy,Morning,26.42,12150
+10-01-2024,GO_FIRST,Delhi,Evening,one,Nashik,Economy,Night,4.75,12229
+10-01-2024,Vistara,Delhi,Evening,one,Rourkela,Economy,Night,5.33,12623
+10-01-2024,Air_India,Delhi,Afternoon,one,Srinagar,Economy,Afternoon,24.83,12298
+10-01-2024,Vistara,Delhi,Afternoon,zero,Chennai,Economy,Evening,2.17,12780
+10-01-2024,Air_India,Delhi,Early_Morning,one,Mumbai,Economy,Night,14.92,12465
+10-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Economy,Afternoon,26.67,12885
+10-01-2024,Indigo,Delhi,Evening,one,Bangalore,Economy,Night,5.33,12570
+10-01-2024,Indigo,Delhi,Afternoon,one,Mumbai,Economy,Night,10.33,12570
+10-01-2024,AirAsia,Delhi,Evening,one,Cochin,Business,Early_Morning,15.17,12990
+10-01-2024,Vistara,Delhi,Afternoon,one,Amritsar,Business,Afternoon,23.75,13410
+10-01-2024,GO_FIRST,Delhi,Morning,one,Jaipur,Business,Afternoon,5.08,13069
+10-01-2024,GO_FIRST,Delhi,Morning,one,Agartala,Business,Evening,7.08,13069
+10-01-2024,Air_India,Delhi,Morning,one,Bhubaneshwar,Premium Economy,Afternoon,26.08,13086
+10-01-2024,Vistara,Delhi,Morning,one,Mumbai,Premium Economy,Morning,23.17,13515
+10-01-2024,SpiceJet,Delhi,Early_Morning,one,Hyderabad,Premium Economy,Morning,4.25,13200
+10-01-2024,Indigo,Delhi,Afternoon,one,Nagpur,Premium Economy,Night,5.42,13279
+10-01-2024,Air_India,Delhi,Early_Morning,one,Nashik,Premium Economy,Afternoon,8,13515
+10-01-2024,Vistara,Delhi,Evening,one,Rourkela,Premium Economy,Morning,12.42,14040
+10-01-2024,Vistara,Delhi,Evening,one,Srinagar,Premium Economy,Night,24.42,14040
+10-01-2024,Vistara,Delhi,Evening,one,Chennai,Premium Economy,Night,26,14040
+10-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Premium Economy,Afternoon,5.08,13767
+10-01-2024,Vistara,Delhi,Evening,one,Chennai,Premium Economy,Night,4.42,14565
+10-01-2024,Vistara,Delhi,Evening,one,Bangalore,Economy,Morning,15.75,14565
+10-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Night,26.67,14565
+10-01-2024,Vistara,Delhi,Early_Morning,one,Cochin,Economy,Morning,28.5,14565
+10-01-2024,GO_FIRST,Delhi,Early_Morning,one,Amritsar,Economy,Evening,11.75,14235
+10-01-2024,Air_India,Delhi,Evening,one,Jaipur,Economy,Afternoon,19.5,14250
+10-01-2024,Vistara,Delhi,Afternoon,one,Agartala,Economy,Night,8.25,14618
+10-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Economy,Morning,14.67,14775
+10-01-2024,Air_India,Delhi,Morning,one,Mumbai,Economy,Evening,7.25,22755
+10-01-2024,Air_India,Delhi,Early_Morning,one,Cochin,Economy,Evening,11,22755
+10-01-2024,Vistara,Delhi,Morning,one,Amritsar,Economy,Afternoon,27.58,23700
+10-01-2024,SpiceJet,Delhi,Evening,zero,Jaipur,Business,Night,2.17,5953
+10-01-2024,SpiceJet,Delhi,Early_Morning,zero,Agartala,Business,Morning,2.25,5953
+10-01-2024,SpiceJet,Delhi,Early_Morning,zero,Bhubaneshwar,Business,Morning,2.25,5953
+10-01-2024,SpiceJet,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.33,5953
+10-01-2024,SpiceJet,Delhi,Early_Morning,zero,Hyderabad,Economy,Morning,2.33,5953
+10-01-2024,SpiceJet,Delhi,Evening,zero,Nagpur,Economy,Night,2.33,5953
+10-01-2024,SpiceJet,Delhi,Evening,zero,Nashik,Economy,Night,2.33,5953
+10-01-2024,Vistara,Delhi,Night,zero,Rourkela,Economy,Night,2,5955
+10-01-2024,Vistara,Delhi,Morning,zero,Srinagar,Economy,Morning,2.08,5955
+10-01-2024,Vistara,Delhi,Early_Morning,zero,Chennai,Economy,Early_Morning,2.17,5955
+10-01-2024,Vistara,Delhi,Afternoon,zero,Mumbai,Economy,Afternoon,2.17,5955
+10-01-2024,Vistara,Delhi,Afternoon,zero,Chennai,Economy,Evening,2.17,5955
+10-01-2024,Vistara,Delhi,Afternoon,zero,Bangalore,Economy,Evening,2.17,5955
+10-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Economy,Night,2.17,5955
+10-01-2024,Vistara,Delhi,Night,zero,Cochin,Economy,Night,2.17,5955
+10-01-2024,Vistara,Delhi,Early_Morning,zero,Amritsar,Business,Morning,2.25,5955
+10-01-2024,Vistara,Delhi,Morning,zero,Jaipur,Business,Afternoon,2.25,5955
+10-01-2024,Vistara,Delhi,Morning,zero,Agartala,Business,Morning,2.33,5955
+10-01-2024,Vistara,Delhi,Morning,zero,Bhubaneshwar,Business,Afternoon,2.33,5955
+10-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Premium Economy,Evening,2.33,5955
+10-01-2024,Vistara,Delhi,Evening,zero,Hyderabad,Premium Economy,Night,2.33,5955
+10-01-2024,Vistara,Delhi,Evening,zero,Nagpur,Premium Economy,Night,2.25,6060
+10-01-2024,GO_FIRST,Delhi,Afternoon,zero,Nashik,Premium Economy,Evening,2.25,5954
+10-01-2024,GO_FIRST,Delhi,Evening,zero,Rourkela,Premium Economy,Night,2.25,5954
+10-01-2024,GO_FIRST,Delhi,Night,zero,Srinagar,Premium Economy,Night,2.25,5954
+10-01-2024,GO_FIRST,Delhi,Morning,zero,Chennai,Premium Economy,Afternoon,2.33,5954
+10-01-2024,GO_FIRST,Delhi,Evening,zero,Mumbai,Premium Economy,Night,2.33,5954
+10-01-2024,Indigo,Delhi,Early_Morning,zero,Chennai,Premium Economy,Morning,2.17,5955
+10-01-2024,Indigo,Delhi,Early_Morning,zero,Bangalore,Premium Economy,Morning,2.17,5955
+10-01-2024,Indigo,Delhi,Evening,zero,Mumbai,Economy,Night,2.17,5955
+10-01-2024,Indigo,Delhi,Night,zero,Cochin,Economy,Late_Night,2.17,5955
+10-01-2024,Indigo,Delhi,Night,zero,Amritsar,Economy,Night,2.25,5955
+10-01-2024,Indigo,Delhi,Morning,zero,Jaipur,Economy,Afternoon,2.33,5955
+10-01-2024,Air_India,Delhi,Evening,zero,Agartala,Economy,Evening,2,5955
+10-01-2024,Air_India,Delhi,Early_Morning,zero,Bhubaneshwar,Economy,Morning,2.08,5955
+10-01-2024,Air_India,Delhi,Early_Morning,zero,Mumbai,Economy,Morning,2.17,5955
+10-01-2024,Air_India,Delhi,Morning,zero,Hyderabad,Economy,Afternoon,2.17,5955
+10-01-2024,Air_India,Delhi,Evening,zero,Nagpur,Economy,Night,2.17,5955
+10-01-2024,Air_India,Delhi,Morning,zero,Nashik,Economy,Morning,2.25,5955
+10-01-2024,Air_India,Delhi,Evening,zero,Rourkela,Business,Night,2.25,5955
+10-01-2024,GO_FIRST,Delhi,Early_Morning,one,Srinagar,Business,Afternoon,8,5954
+10-01-2024,GO_FIRST,Delhi,Afternoon,two_or_more,Chennai,Business,Night,8.58,5954
+10-01-2024,GO_FIRST,Delhi,Morning,one,Mumbai,Economy,Evening,8.92,5954
+10-01-2024,GO_FIRST,Delhi,Afternoon,one,Chennai,Economy,Night,9.25,5954
+10-01-2024,GO_FIRST,Delhi,Early_Morning,one,Bangalore,Economy,Evening,11.75,5954
+10-01-2024,GO_FIRST,Delhi,Evening,one,Mumbai,Economy,Early_Morning,12.33,5954
+10-01-2024,GO_FIRST,Delhi,Early_Morning,one,Cochin,Economy,Night,14.25,5954
+11-01-2024,Vistara,Delhi,Evening,one,Mumbai,Economy,Night,26.67,14775
+11-01-2024,Vistara,Delhi,Evening,one,Hyderabad,Economy,Night,28.25,14775
+11-01-2024,Indigo,Delhi,Afternoon,one,Nagpur,Economy,Night,8,14744
+11-01-2024,Vistara,Delhi,Morning,one,Nashik,Economy,Night,13.75,15353
+11-01-2024,Vistara,Delhi,Morning,one,Rourkela,Economy,Morning,27.33,15353
+11-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Economy,Night,28.42,15405
+11-01-2024,Air_India,Delhi,Night,one,Chennai,Economy,Afternoon,16.17,15090
+11-01-2024,Indigo,Delhi,Early_Morning,one,Mumbai,Business,Evening,8.67,15232
+11-01-2024,Indigo,Delhi,Night,one,Chennai,Business,Morning,10.17,15232
+11-01-2024,Vistara,Delhi,Night,zero,Bangalore,Business,Night,2.17,15720
+11-01-2024,Vistara,Delhi,Evening,zero,Mumbai,Business,Night,2.33,15720
+11-01-2024,Air_India,Delhi,Morning,one,Cochin,Premium Economy,Afternoon,30.08,15405
+11-01-2024,Indigo,Delhi,Night,zero,Amritsar,Premium Economy,Night,2.25,15720
+11-01-2024,Indigo,Delhi,Morning,one,Jaipur,Premium Economy,Afternoon,4.17,15720
+11-01-2024,Indigo,Delhi,Morning,one,Chennai,Premium Economy,Evening,9.25,15720
+11-01-2024,Air_India,Delhi,Night,one,Mumbai,Premium Economy,Evening,20.42,15825
+11-01-2024,Air_India,Delhi,Evening,one,Chennai,Premium Economy,Evening,24.83,15825
+11-01-2024,Air_India,Delhi,Evening,one,Bangalore,Premium Economy,Night,29.33,16245
+11-01-2024,Vistara,Delhi,Evening,one,Mumbai,Premium Economy,Afternoon,20.08,16665
+11-01-2024,Vistara,Delhi,Morning,one,Cochin,Premium Economy,Night,12.75,16718
+11-01-2024,GO_FIRST,Delhi,Early_Morning,one,Amritsar,Premium Economy,Afternoon,8,16823
+11-01-2024,Vistara,Delhi,Afternoon,one,Jaipur,Economy,Afternoon,21.08,17190
+11-01-2024,GO_FIRST,Delhi,Morning,one,Agartala,Economy,Evening,8.92,16859
+11-01-2024,Vistara,Delhi,Evening,one,Bhubaneshwar,Economy,Morning,15.58,17243
+11-01-2024,Vistara,Delhi,Morning,one,Mumbai,Economy,Night,12.17,17348
+11-01-2024,GO_FIRST,Delhi,Afternoon,one,Hyderabad,Economy,Night,7.5,17136
+11-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Economy,Afternoon,9.75,17295
+11-01-2024,Vistara,Delhi,Evening,one,Nashik,Economy,Morning,17.83,17978
+11-01-2024,Vistara,Delhi,Afternoon,one,Rourkela,Economy,Morning,18,18030
+11-01-2024,Vistara,Delhi,Evening,one,Srinagar,Economy,Morning,18.25,18135
+11-01-2024,Air_India,Delhi,Early_Morning,one,Chennai,Economy,Night,13.25,18135
+11-01-2024,Vistara,Delhi,Morning,one,Mumbai,Business,Night,11.17,18713
+11-01-2024,Vistara,Delhi,Afternoon,one,Chennai,Business,Night,7.92,19238
+11-01-2024,Air_India,Delhi,Evening,one,Bangalore,Business,Morning,15.25,19605
+13-01-2024,GO_FIRST,Delhi,Early_Morning,one,Amritsar,Economy,Night,14.5,5954
+13-01-2024,GO_FIRST,Delhi,Evening,one,Jaipur,Economy,Morning,15.17,5954
+11-01-2024,GO_FIRST,Delhi,Early_Morning,one,Agartala,Economy,Night,15.75,5954
+11-01-2024,Air_India,Delhi,Afternoon,one,Bhubaneshwar,Economy,Evening,3.5,5955
+11-01-2024,Air_India,Delhi,Evening,one,Mumbai,Economy,Night,3.75,5955
+11-01-2024,SpiceJet,Delhi,Evening,one,Hyderabad,Economy,Night,4.5,5955
+11-01-2024,Indigo,Delhi,Early_Morning,one,Nagpur,Economy,Morning,5.42,5955
+11-01-2024,Indigo,Delhi,Afternoon,one,Nashik,Economy,Night,10.33,5955
+11-01-2024,SpiceJet,Delhi,Evening,one,Rourkela,Economy,Morning,15.25,5955
+11-01-2024,SpiceJet,Delhi,Evening,one,Srinagar,Economy,Early_Morning,13.25,6060
+11-01-2024,Indigo,Delhi,Afternoon,zero,Chennai,Economy,Evening,2.25,6165
+11-01-2024,Indigo,Delhi,Morning,zero,Mumbai,Economy,Morning,2.5,6165
+11-01-2024,AirAsia,Delhi,Early_Morning,zero,Chennai,Business,Early_Morning,2.17,6349
+12-01-2024,GO_FIRST,Delhi,Early_Morning,zero,Bangalore,Business,Morning,2.17,6532
+12-01-2024,GO_FIRST,Delhi,Afternoon,zero,Mumbai,Business,Evening,2.25,6532
+12-01-2024,Indigo,Delhi,Morning,zero,Cochin,Business,Afternoon,2.17,6585
+12-01-2024,Indigo,Delhi,Evening,zero,Amritsar,Premium Economy,Evening,2.17,6585
+12-01-2024,Indigo,Delhi,Early_Morning,one,Jaipur,Premium Economy,Afternoon,7.58,6638
+12-01-2024,Indigo,Delhi,Evening,one,Agartala,Premium Economy,Night,5.33,6932
+12-01-2024,Indigo,Delhi,Morning,two_or_more,Bhubaneshwar,Premium Economy,Evening,9.67,6953
+12-01-2024,Indigo,Delhi,Morning,zero,Mumbai,Premium Economy,Morning,2.33,7110
+12-01-2024,Air_India,Delhi,Morning,one,Hyderabad,Premium Economy,Night,14.75,7468
+12-01-2024,Air_India,Delhi,Early_Morning,one,Nagpur,Premium Economy,Night,17.5,7468
+12-01-2024,Vistara,Delhi,Afternoon,one,Nashik,Premium Economy,Afternoon,26.67,8948
+12-01-2024,Vistara,Delhi,Evening,one,Rourkela,Premium Economy,Morning,18.33,9105
+13-01-2024,Vistara,Delhi,Afternoon,one,Srinagar,Premium Economy,Morning,21.83,9105
+13-01-2024,GO_FIRST,Delhi,Evening,one,Chennai,Economy,Night,4.75,8869
+13-01-2024,AirAsia,Delhi,Evening,one,Mumbai,Economy,Early_Morning,11.67,8869
+13-01-2024,Air_India,Delhi,Early_Morning,one,Chennai,Economy,Night,15.17,9000
+13-01-2024,Air_India,Delhi,Early_Morning,one,Bangalore,Economy,Night,17.83,9000
+13-01-2024,Air_India,Delhi,Evening,one,Mumbai,Economy,Afternoon,20.83,9053
+13-01-2024,Indigo,Delhi,Night,one,Cochin,Economy,Morning,10.42,9263
+13-01-2024,Air_India,Delhi,Evening,one,Amritsar,Economy,Night,24.75,9315
+13-01-2024,Indigo,Delhi,Evening,one,Jaipur,Economy,Night,4.42,9373
